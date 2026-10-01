@@ -1,0 +1,43 @@
+date,category,description,amount
+2026-06-01,Ingredients,Milk & dairy,12470
+2026-06-01,Ingredients,"Vegetables, chicken & eggs",9030
+2026-06-01,Rent,Monthly shop rent,95000
+2026-06-02,Ingredients,"Bakery ingredients (flour, butter, chocolate)",7410
+2026-06-03,Ingredients,"Coffee beans (roasted, 5 kg bags)",10880
+2026-06-03,Marketing,Instagram ads,6000
+2026-06-04,Ingredients,Milk & dairy,9150
+2026-06-04,Utilities,Commercial LPG cylinder,2150
+2026-06-05,Ingredients,Bakery supplies & packaging,5480
+2026-06-05,Utilities,Internet & phone,1180
+2026-06-06,Salaries,Weekly staff wages,56000
+2026-06-08,Ingredients,Milk & dairy,13500
+2026-06-08,Ingredients,"Vegetables, chicken & eggs",10350
+2026-06-08,Utilities,Electricity bill,24600
+2026-06-09,Ingredients,"Bakery ingredients (flour, butter, chocolate)",8720
+2026-06-10,Ingredients,"Coffee beans (roasted, 5 kg bags)",12190
+2026-06-10,Utilities,Water bill,850
+2026-06-11,Ingredients,Milk & dairy,11490
+2026-06-12,Ingredients,Bakery supplies & packaging,6870
+2026-06-12,Marketing,Zomato/Swiggy listing ads,4000
+2026-06-12,Other,Takeaway packaging,2400
+2026-06-13,Salaries,Weekly staff wages,56000
+2026-06-15,Ingredients,Milk & dairy,10160
+2026-06-15,Ingredients,"Vegetables, chicken & eggs",8110
+2026-06-15,Other,Cleaning supplies,1800
+2026-06-16,Ingredients,"Bakery ingredients (flour, butter, chocolate)",7770
+2026-06-17,Ingredients,"Coffee beans (roasted, 5 kg bags)",10440
+2026-06-18,Ingredients,Milk & dairy,9860
+2026-06-19,Ingredients,Bakery supplies & packaging,5490
+2026-06-20,Salaries,Weekly staff wages,56000
+2026-06-22,Ingredients,Milk & dairy,10780
+2026-06-22,Ingredients,"Vegetables, chicken & eggs",7840
+2026-06-22,Utilities,Commercial LPG cylinder,2150
+2026-06-23,Ingredients,"Bakery ingredients (flour, butter, chocolate)",6750
+2026-06-24,Ingredients,"Coffee beans (roasted, 5 kg bags)",10730
+2026-06-25,Ingredients,Milk & dairy,8910
+2026-06-25,Other,Pest control service,1500
+2026-06-26,Ingredients,Bakery supplies & packaging,5180
+2026-06-27,Salaries,Weekly staff wages,56000
+2026-06-29,Ingredients,Milk & dairy,9880
+2026-06-29,Ingredients,"Vegetables, chicken & eggs",7780
+2026-06-30,Ingredients,"Bakery ingredients (flour, butter, chocolate)",7060

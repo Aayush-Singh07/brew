@@ -1,0 +1,488 @@
+{
+  "totalRevenue": 2649660.0,
+  "totalOrders": 7667,
+  "averageOrderValue": 345.59,
+  "totalExpenses": 2373550.0,
+  "netProfit": 276110.0,
+  "revenueByDay": [
+    {
+      "date": "2026-08-16",
+      "revenue": 26380.0
+    },
+    {
+      "date": "2026-08-17",
+      "revenue": 24120.0
+    },
+    {
+      "date": "2026-08-18",
+      "revenue": 13750.0
+    },
+    {
+      "date": "2026-08-19",
+      "revenue": 15660.0
+    },
+    {
+      "date": "2026-08-20",
+      "revenue": 18720.0
+    },
+    {
+      "date": "2026-08-21",
+      "revenue": 31550.0
+    },
+    {
+      "date": "2026-08-22",
+      "revenue": 23620.0
+    },
+    {
+      "date": "2026-08-23",
+      "revenue": 43900.0
+    },
+    {
+      "date": "2026-08-24",
+      "revenue": 17990.0
+    },
+    {
+      "date": "2026-08-25",
+      "revenue": 11760.0
+    },
+    {
+      "date": "2026-08-26",
+      "revenue": 13650.0
+    },
+    {
+      "date": "2026-08-27",
+      "revenue": 23180.0
+    },
+    {
+      "date": "2026-08-28",
+      "revenue": 24570.0
+    },
+    {
+      "date": "2026-08-29",
+      "revenue": 28970.0
+    },
+    {
+      "date": "2026-08-30",
+      "revenue": 26300.0
+    },
+    {
+      "date": "2026-08-31",
+      "revenue": 15540.0
+    },
+    {
+      "date": "2026-09-01",
+      "revenue": 14770.0
+    },
+    {
+      "date": "2026-09-02",
+      "revenue": 15710.0
+    },
+    {
+      "date": "2026-09-03",
+      "revenue": 24020.0
+    },
+    {
+      "date": "2026-09-04",
+      "revenue": 39870.0
+    },
+    {
+      "date": "2026-09-05",
+      "revenue": 40690.0
+    },
+    {
+      "date": "2026-09-06",
+      "revenue": 43290.0
+    },
+    {
+      "date": "2026-09-07",
+      "revenue": 32950.0
+    },
+    {
+      "date": "2026-09-08",
+      "revenue": 18510.0
+    },
+    {
+      "date": "2026-09-09",
+      "revenue": 31630.0
+    },
+    {
+      "date": "2026-09-10",
+      "revenue": 26920.0
+    },
+    {
+      "date": "2026-09-11",
+      "revenue": 31120.0
+    },
+    {
+      "date": "2026-09-12",
+      "revenue": 56510.0
+    },
+    {
+      "date": "2026-09-13",
+      "revenue": 55680.0
+    },
+    {
+      "date": "2026-09-14",
+      "revenue": 14020.0
+    }
+  ],
+  "revenueExpenseByDay": [
+    {
+      "date": "2026-08-16",
+      "revenue": 26380.0,
+      "expenses": 0
+    },
+    {
+      "date": "2026-08-17",
+      "revenue": 24120.0,
+      "expenses": 24850.0
+    },
+    {
+      "date": "2026-08-18",
+      "revenue": 13750.0,
+      "expenses": 8700.0
+    },
+    {
+      "date": "2026-08-19",
+      "revenue": 15660.0,
+      "expenses": 12260.0
+    },
+    {
+      "date": "2026-08-20",
+      "revenue": 18720.0,
+      "expenses": 15660.0
+    },
+    {
+      "date": "2026-08-21",
+      "revenue": 31550.0,
+      "expenses": 6370.0
+    },
+    {
+      "date": "2026-08-22",
+      "revenue": 23620.0,
+      "expenses": 60000.0
+    },
+    {
+      "date": "2026-08-23",
+      "revenue": 43900.0,
+      "expenses": 0
+    },
+    {
+      "date": "2026-08-24",
+      "revenue": 17990.0,
+      "expenses": 20840.0
+    },
+    {
+      "date": "2026-08-25",
+      "revenue": 11760.0,
+      "expenses": 9490.0
+    },
+    {
+      "date": "2026-08-26",
+      "revenue": 13650.0,
+      "expenses": 10150.0
+    },
+    {
+      "date": "2026-08-27",
+      "revenue": 23180.0,
+      "expenses": 10530.0
+    },
+    {
+      "date": "2026-08-28",
+      "revenue": 24570.0,
+      "expenses": 5260.0
+    },
+    {
+      "date": "2026-08-29",
+      "revenue": 28970.0,
+      "expenses": 60000.0
+    },
+    {
+      "date": "2026-08-30",
+      "revenue": 26300.0,
+      "expenses": 0
+    },
+    {
+      "date": "2026-08-31",
+      "revenue": 15540.0,
+      "expenses": 27240.0
+    },
+    {
+      "date": "2026-09-01",
+      "revenue": 14770.0,
+      "expenses": 103990.0
+    },
+    {
+      "date": "2026-09-02",
+      "revenue": 15710.0,
+      "expenses": 16730.0
+    },
+    {
+      "date": "2026-09-03",
+      "revenue": 24020.0,
+      "expenses": 22740.0
+    },
+    {
+      "date": "2026-09-04",
+      "revenue": 39870.0,
+      "expenses": 7270.0
+    },
+    {
+      "date": "2026-09-05",
+      "revenue": 40690.0,
+      "expenses": 61180.0
+    },
+    {
+      "date": "2026-09-06",
+      "revenue": 43290.0,
+      "expenses": 0
+    },
+    {
+      "date": "2026-09-07",
+      "revenue": 32950.0,
+      "expenses": 35170.0
+    },
+    {
+      "date": "2026-09-08",
+      "revenue": 18510.0,
+      "expenses": 36020.0
+    },
+    {
+      "date": "2026-09-09",
+      "revenue": 31630.0,
+      "expenses": 22870.0
+    },
+    {
+      "date": "2026-09-10",
+      "revenue": 26920.0,
+      "expenses": 18220.0
+    },
+    {
+      "date": "2026-09-11",
+      "revenue": 31120.0,
+      "expenses": 9420.0
+    },
+    {
+      "date": "2026-09-12",
+      "revenue": 56510.0,
+      "expenses": 64000.0
+    },
+    {
+      "date": "2026-09-13",
+      "revenue": 55680.0,
+      "expenses": 0
+    },
+    {
+      "date": "2026-09-14",
+      "revenue": 14020.0,
+      "expenses": 33280.0
+    }
+  ],
+  "topProducts": [
+    {
+      "name": "Cappuccino",
+      "revenue": 307870.0,
+      "units": 1811,
+      "category": "Hot Beverages"
+    },
+    {
+      "name": "Cafe Latte",
+      "revenue": 293400.0,
+      "units": 1630,
+      "category": "Hot Beverages"
+    },
+    {
+      "name": "Chicken Sandwich",
+      "revenue": 216480.0,
+      "units": 902,
+      "category": "Snacks"
+    },
+    {
+      "name": "Cold Coffee",
+      "revenue": 178800.0,
+      "units": 894,
+      "category": "Cold Beverages"
+    },
+    {
+      "name": "Masala Chai",
+      "revenue": 164520.0,
+      "units": 1828,
+      "category": "Hot Beverages"
+    }
+  ],
+  "categorySplit": [
+    {
+      "category": "Hot Beverages",
+      "revenue": 1098420.0
+    },
+    {
+      "category": "Snacks",
+      "revenue": 654980.0
+    },
+    {
+      "category": "Cold Beverages",
+      "revenue": 593910.0
+    },
+    {
+      "category": "Bakery",
+      "revenue": 302350.0
+    }
+  ],
+  "peakHours": [
+    {
+      "hour": 8,
+      "label": "08:00",
+      "revenue": 91780.0,
+      "orders": 292
+    },
+    {
+      "hour": 9,
+      "label": "09:00",
+      "revenue": 249570.0,
+      "orders": 733
+    },
+    {
+      "hour": 10,
+      "label": "10:00",
+      "revenue": 247060.0,
+      "orders": 755
+    },
+    {
+      "hour": 11,
+      "label": "11:00",
+      "revenue": 216710.0,
+      "orders": 602
+    },
+    {
+      "hour": 12,
+      "label": "12:00",
+      "revenue": 218460.0,
+      "orders": 625
+    },
+    {
+      "hour": 13,
+      "label": "13:00",
+      "revenue": 277200.0,
+      "orders": 813
+    },
+    {
+      "hour": 14,
+      "label": "14:00",
+      "revenue": 128230.0,
+      "orders": 364
+    },
+    {
+      "hour": 15,
+      "label": "15:00",
+      "revenue": 115950.0,
+      "orders": 328
+    },
+    {
+      "hour": 16,
+      "label": "16:00",
+      "revenue": 127890.0,
+      "orders": 358
+    },
+    {
+      "hour": 17,
+      "label": "17:00",
+      "revenue": 223140.0,
+      "orders": 628
+    },
+    {
+      "hour": 18,
+      "label": "18:00",
+      "revenue": 256550.0,
+      "orders": 768
+    },
+    {
+      "hour": 19,
+      "label": "19:00",
+      "revenue": 248480.0,
+      "orders": 690
+    },
+    {
+      "hour": 20,
+      "label": "20:00",
+      "revenue": 168010.0,
+      "orders": 476
+    },
+    {
+      "hour": 21,
+      "label": "21:00",
+      "revenue": 80630.0,
+      "orders": 235
+    }
+  ],
+  "expensesByCategory": [
+    {
+      "category": "Ingredients",
+      "amount": 936030.0
+    },
+    {
+      "category": "Salaries",
+      "amount": 868000.0
+    },
+    {
+      "category": "Rent",
+      "amount": 380000.0
+    },
+    {
+      "category": "Utilities",
+      "amount": 114920.0
+    },
+    {
+      "category": "Marketing",
+      "amount": 47000.0
+    },
+    {
+      "category": "Other",
+      "amount": 27600.0
+    }
+  ],
+  "revenueByWeekday": [
+    {
+      "weekday": "Mon",
+      "revenue": 317870.0,
+      "orders": 928
+    },
+    {
+      "weekday": "Tue",
+      "revenue": 235920.0,
+      "orders": 693
+    },
+    {
+      "weekday": "Wed",
+      "revenue": 262380.0,
+      "orders": 771
+    },
+    {
+      "weekday": "Thu",
+      "revenue": 327860.0,
+      "orders": 918
+    },
+    {
+      "weekday": "Fri",
+      "revenue": 423890.0,
+      "orders": 1250
+    },
+    {
+      "weekday": "Sat",
+      "revenue": 543330.0,
+      "orders": 1578
+    },
+    {
+      "weekday": "Sun",
+      "revenue": 538410.0,
+      "orders": 1529
+    }
+  ],
+  "kpiDeltas": {
+    "revenue": 10.9,
+    "orders": 9.7,
+    "aov": 1.1,
+    "profit": -241.4
+  },
+  "demoNow": "2026-09-14T18:30:00+05:30",
+  "dataThrough": "2026-09-14"
+}

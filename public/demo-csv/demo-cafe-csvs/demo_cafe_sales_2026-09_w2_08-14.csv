@@ -1,0 +1,1249 @@
+date,time,product,category,quantity,unit_price,revenue
+2026-09-08,08:38:40,Cappuccino,Hot Beverages,1,170,170
+2026-09-08,08:38:40,Cafe Latte,Hot Beverages,1,180,180
+2026-09-08,08:40:50,Iced Americano,Cold Beverages,1,170,170
+2026-09-08,08:40:50,Masala Chai,Hot Beverages,1,90,90
+2026-09-08,08:40:50,Butter Croissant,Bakery,1,140,140
+2026-09-08,09:00:30,Peri Peri Fries,Snacks,1,160,160
+2026-09-08,09:01:54,Blueberry Muffin,Bakery,1,120,120
+2026-09-08,09:01:54,Americano,Hot Beverages,1,140,140
+2026-09-08,09:13:00,Banana Bread,Bakery,1,130,130
+2026-09-08,09:24:30,Masala Chai,Hot Beverages,1,90,90
+2026-09-08,09:41:27,Cold Brew,Cold Beverages,1,220,220
+2026-09-08,09:41:27,Cafe Latte,Hot Beverages,1,180,180
+2026-09-08,09:44:05,Americano,Hot Beverages,1,140,140
+2026-09-08,09:48:05,Veg Grilled Sandwich,Snacks,1,190,190
+2026-09-08,10:05:08,Cold Coffee,Cold Beverages,1,200,200
+2026-09-08,10:24:20,Butter Croissant,Bakery,1,140,140
+2026-09-08,10:25:16,Cappuccino,Hot Beverages,1,170,170
+2026-09-08,10:25:16,Egg Bhurji Pav,Snacks,1,170,170
+2026-09-08,10:33:14,Iced Latte,Cold Beverages,1,210,210
+2026-09-08,10:33:14,Fresh Lime Soda,Cold Beverages,1,110,110
+2026-09-08,10:35:04,Espresso,Hot Beverages,1,120,120
+2026-09-08,10:39:29,Butter Croissant,Bakery,1,140,140
+2026-09-08,10:43:44,Cafe Latte,Hot Beverages,1,180,180
+2026-09-08,11:31:15,Americano,Hot Beverages,3,140,420
+2026-09-08,11:31:15,Cappuccino,Hot Beverages,1,170,170
+2026-09-08,11:53:41,Masala Chai,Hot Beverages,1,90,90
+2026-09-08,11:53:41,Cafe Latte,Hot Beverages,1,180,180
+2026-09-08,11:55:43,Masala Chai,Hot Beverages,1,90,90
+2026-09-08,12:05:19,Cold Coffee,Cold Beverages,2,200,400
+2026-09-08,12:16:31,Egg Bhurji Pav,Snacks,1,170,170
+2026-09-08,12:16:31,Cafe Latte,Hot Beverages,2,180,360
+2026-09-08,12:21:20,Americano,Hot Beverages,1,140,140
+2026-09-08,12:28:43,Masala Chai,Hot Beverages,1,90,90
+2026-09-08,12:52:24,Choco Brownie,Bakery,1,150,150
+2026-09-08,12:52:24,Americano,Hot Beverages,1,140,140
+2026-09-08,13:35:33,Fresh Lime Soda,Cold Beverages,1,110,110
+2026-09-08,13:35:33,Veg Grilled Sandwich,Snacks,1,190,190
+2026-09-08,13:51:08,Blueberry Muffin,Bakery,1,120,120
+2026-09-08,14:08:40,Chicken Sandwich,Snacks,3,240,720
+2026-09-08,14:08:40,Flat White,Hot Beverages,2,190,380
+2026-09-08,14:08:40,Masala Chai,Hot Beverages,2,90,180
+2026-09-08,14:28:29,Iced Americano,Cold Beverages,1,170,170
+2026-09-08,14:28:29,Cafe Latte,Hot Beverages,1,180,180
+2026-09-08,14:49:48,Masala Chai,Hot Beverages,2,90,180
+2026-09-08,14:49:48,Veg Grilled Sandwich,Snacks,2,190,380
+2026-09-08,16:11:50,Cappuccino,Hot Beverages,1,170,170
+2026-09-08,16:11:50,Flat White,Hot Beverages,1,190,190
+2026-09-08,16:11:50,Blueberry Muffin,Bakery,1,120,120
+2026-09-08,16:57:44,Iced Americano,Cold Beverages,1,170,170
+2026-09-08,16:58:47,Masala Chai,Hot Beverages,1,90,90
+2026-09-08,16:58:47,Flat White,Hot Beverages,1,190,190
+2026-09-08,17:00:43,Iced Latte,Cold Beverages,2,210,420
+2026-09-08,17:00:43,Egg Bhurji Pav,Snacks,1,170,170
+2026-09-08,17:09:09,Fresh Lime Soda,Cold Beverages,1,110,110
+2026-09-08,17:29:03,Masala Chai,Hot Beverages,3,90,270
+2026-09-08,17:32:06,Americano,Hot Beverages,1,140,140
+2026-09-08,17:32:06,Peri Peri Fries,Snacks,1,160,160
+2026-09-08,17:32:06,Fresh Lime Soda,Cold Beverages,1,110,110
+2026-09-08,17:32:06,Butter Croissant,Bakery,1,140,140
+2026-09-08,17:46:51,Cold Coffee,Cold Beverages,1,200,200
+2026-09-08,17:46:51,Masala Chai,Hot Beverages,1,90,90
+2026-09-08,18:14:01,Cappuccino,Hot Beverages,1,170,170
+2026-09-08,18:14:01,Iced Latte,Cold Beverages,1,210,210
+2026-09-08,18:28:16,Chicken Sandwich,Snacks,1,240,240
+2026-09-08,18:47:15,Masala Chai,Hot Beverages,1,90,90
+2026-09-08,18:49:38,Butter Croissant,Bakery,1,140,140
+2026-09-08,18:49:38,Cafe Latte,Hot Beverages,1,180,180
+2026-09-08,19:09:02,Americano,Hot Beverages,1,140,140
+2026-09-08,19:09:02,Espresso,Hot Beverages,1,120,120
+2026-09-08,19:09:02,Masala Chai,Hot Beverages,1,90,90
+2026-09-08,19:09:53,Cold Coffee,Cold Beverages,1,200,200
+2026-09-08,19:09:53,Veg Grilled Sandwich,Snacks,1,190,190
+2026-09-08,19:09:53,Americano,Hot Beverages,2,140,280
+2026-09-08,19:09:53,Cafe Latte,Hot Beverages,1,180,180
+2026-09-08,19:11:54,Cafe Latte,Hot Beverages,1,180,180
+2026-09-08,19:11:54,Masala Chai,Hot Beverages,1,90,90
+2026-09-08,19:11:54,Iced Latte,Cold Beverages,1,210,210
+2026-09-08,19:21:18,Flat White,Hot Beverages,1,190,190
+2026-09-08,19:21:22,Veg Grilled Sandwich,Snacks,1,190,190
+2026-09-08,19:33:16,Veg Grilled Sandwich,Snacks,2,190,380
+2026-09-08,19:35:53,Chicken Sandwich,Snacks,1,240,240
+2026-09-08,19:36:27,Veg Grilled Sandwich,Snacks,1,190,190
+2026-09-08,19:38:14,Butter Croissant,Bakery,2,140,280
+2026-09-08,19:38:14,Espresso,Hot Beverages,1,120,120
+2026-09-08,19:38:14,Cafe Latte,Hot Beverages,1,180,180
+2026-09-08,19:38:14,Peri Peri Fries,Snacks,1,160,160
+2026-09-08,19:45:10,Espresso,Hot Beverages,1,120,120
+2026-09-08,19:45:10,Egg Bhurji Pav,Snacks,1,170,170
+2026-09-08,19:50:26,Peri Peri Fries,Snacks,2,160,320
+2026-09-08,19:56:47,Cheese Omelette Toast,Snacks,1,180,180
+2026-09-08,19:58:18,Flat White,Hot Beverages,1,190,190
+2026-09-08,19:58:18,Americano,Hot Beverages,1,140,140
+2026-09-08,20:32:25,Chicken Sandwich,Snacks,1,240,240
+2026-09-08,20:42:00,Cappuccino,Hot Beverages,1,170,170
+2026-09-08,20:42:00,Americano,Hot Beverages,1,140,140
+2026-09-08,20:42:00,Choco Brownie,Bakery,1,150,150
+2026-09-08,20:53:05,Peri Peri Fries,Snacks,1,160,160
+2026-09-08,20:53:05,Cappuccino,Hot Beverages,1,170,170
+2026-09-08,20:53:15,Americano,Hot Beverages,1,140,140
+2026-09-08,20:53:15,Cafe Latte,Hot Beverages,1,180,180
+2026-09-08,20:53:15,Masala Chai,Hot Beverages,1,90,90
+2026-09-09,08:13:14,Egg Bhurji Pav,Snacks,1,170,170
+2026-09-09,08:23:44,Iced Latte,Cold Beverages,1,210,210
+2026-09-09,08:23:44,Cafe Latte,Hot Beverages,1,180,180
+2026-09-09,08:33:15,Cafe Latte,Hot Beverages,1,180,180
+2026-09-09,08:51:25,Espresso,Hot Beverages,1,120,120
+2026-09-09,08:51:25,Banana Bread,Bakery,1,130,130
+2026-09-09,08:51:25,Blueberry Muffin,Bakery,1,120,120
+2026-09-09,08:58:57,Cafe Latte,Hot Beverages,1,180,180
+2026-09-09,08:58:57,Masala Chai,Hot Beverages,1,90,90
+2026-09-09,08:58:57,Peri Peri Fries,Snacks,1,160,160
+2026-09-09,09:02:44,Fresh Lime Soda,Cold Beverages,2,110,220
+2026-09-09,09:04:53,Cappuccino,Hot Beverages,2,170,340
+2026-09-09,09:08:34,Cappuccino,Hot Beverages,1,170,170
+2026-09-09,09:08:34,Iced Latte,Cold Beverages,1,210,210
+2026-09-09,09:08:34,Flat White,Hot Beverages,1,190,190
+2026-09-09,09:15:25,Masala Chai,Hot Beverages,1,90,90
+2026-09-09,09:16:18,Cappuccino,Hot Beverages,1,170,170
+2026-09-09,09:16:28,Espresso,Hot Beverages,1,120,120
+2026-09-09,09:16:28,Cappuccino,Hot Beverages,1,170,170
+2026-09-09,09:16:28,Choco Brownie,Bakery,1,150,150
+2026-09-09,09:22:06,Cold Brew,Cold Beverages,1,220,220
+2026-09-09,09:28:55,Flat White,Hot Beverages,1,190,190
+2026-09-09,09:29:13,Cappuccino,Hot Beverages,1,170,170
+2026-09-09,09:29:13,Cold Coffee,Cold Beverages,2,200,400
+2026-09-09,09:29:13,Iced Americano,Cold Beverages,1,170,170
+2026-09-09,09:33:15,Americano,Hot Beverages,1,140,140
+2026-09-09,09:33:15,Choco Brownie,Bakery,1,150,150
+2026-09-09,09:33:18,Cafe Latte,Hot Beverages,1,180,180
+2026-09-09,09:33:18,Banana Bread,Bakery,2,130,260
+2026-09-09,09:35:20,Blueberry Muffin,Bakery,1,120,120
+2026-09-09,09:37:18,Banana Bread,Bakery,1,130,130
+2026-09-09,09:37:18,Cold Coffee,Cold Beverages,1,200,200
+2026-09-09,09:37:18,Butter Croissant,Bakery,1,140,140
+2026-09-09,09:53:19,Masala Chai,Hot Beverages,1,90,90
+2026-09-09,09:53:19,Cafe Latte,Hot Beverages,1,180,180
+2026-09-09,09:58:09,Masala Chai,Hot Beverages,2,90,180
+2026-09-09,09:58:09,Chicken Sandwich,Snacks,1,240,240
+2026-09-09,09:58:09,Iced Latte,Cold Beverages,3,210,630
+2026-09-09,09:58:09,Choco Brownie,Bakery,1,150,150
+2026-09-09,10:04:42,Masala Chai,Hot Beverages,1,90,90
+2026-09-09,10:11:03,Iced Americano,Cold Beverages,2,170,340
+2026-09-09,10:31:26,Flat White,Hot Beverages,1,190,190
+2026-09-09,10:31:26,Masala Chai,Hot Beverages,1,90,90
+2026-09-09,10:35:22,Veg Grilled Sandwich,Snacks,2,190,380
+2026-09-09,10:35:22,Americano,Hot Beverages,1,140,140
+2026-09-09,10:36:30,Blueberry Muffin,Bakery,1,120,120
+2026-09-09,10:36:30,Cafe Latte,Hot Beverages,1,180,180
+2026-09-09,10:37:27,Cappuccino,Hot Beverages,1,170,170
+2026-09-09,10:39:17,Cappuccino,Hot Beverages,2,170,340
+2026-09-09,10:39:17,Masala Chai,Hot Beverages,1,90,90
+2026-09-09,10:45:51,Americano,Hot Beverages,1,140,140
+2026-09-09,10:46:02,Peri Peri Fries,Snacks,1,160,160
+2026-09-09,10:52:54,Banana Bread,Bakery,2,130,260
+2026-09-09,10:52:54,Espresso,Hot Beverages,1,120,120
+2026-09-09,10:58:53,Cold Brew,Cold Beverages,1,220,220
+2026-09-09,11:06:55,Cold Coffee,Cold Beverages,2,200,400
+2026-09-09,11:14:44,Chicken Sandwich,Snacks,1,240,240
+2026-09-09,11:19:13,Cafe Latte,Hot Beverages,1,180,180
+2026-09-09,11:20:37,Cappuccino,Hot Beverages,1,170,170
+2026-09-09,11:23:57,Cappuccino,Hot Beverages,1,170,170
+2026-09-09,11:23:57,Veg Grilled Sandwich,Snacks,1,190,190
+2026-09-09,11:25:56,Americano,Hot Beverages,1,140,140
+2026-09-09,11:25:56,Espresso,Hot Beverages,1,120,120
+2026-09-09,11:25:56,Peri Peri Fries,Snacks,1,160,160
+2026-09-09,11:29:39,Fresh Lime Soda,Cold Beverages,1,110,110
+2026-09-09,11:29:39,Peri Peri Fries,Snacks,1,160,160
+2026-09-09,11:29:39,Chicken Sandwich,Snacks,1,240,240
+2026-09-09,11:39:40,Choco Brownie,Bakery,1,150,150
+2026-09-09,11:44:39,Choco Brownie,Bakery,1,150,150
+2026-09-09,11:44:39,Espresso,Hot Beverages,2,120,240
+2026-09-09,11:44:39,Masala Chai,Hot Beverages,1,90,90
+2026-09-09,11:47:44,Iced Latte,Cold Beverages,1,210,210
+2026-09-09,11:47:44,Masala Chai,Hot Beverages,1,90,90
+2026-09-09,12:03:32,Americano,Hot Beverages,1,140,140
+2026-09-09,12:03:32,Cafe Latte,Hot Beverages,1,180,180
+2026-09-09,12:09:14,Cold Coffee,Cold Beverages,2,200,400
+2026-09-09,12:09:14,Iced Americano,Cold Beverages,1,170,170
+2026-09-09,12:09:14,Choco Brownie,Bakery,1,150,150
+2026-09-09,12:25:01,Espresso,Hot Beverages,1,120,120
+2026-09-09,12:27:50,Egg Bhurji Pav,Snacks,1,170,170
+2026-09-09,12:27:50,Cappuccino,Hot Beverages,1,170,170
+2026-09-09,12:32:34,Masala Chai,Hot Beverages,1,90,90
+2026-09-09,12:32:34,Americano,Hot Beverages,1,140,140
+2026-09-09,12:32:34,Banana Bread,Bakery,1,130,130
+2026-09-09,12:58:44,Egg Bhurji Pav,Snacks,1,170,170
+2026-09-09,12:58:44,Iced Latte,Cold Beverages,1,210,210
+2026-09-09,12:58:44,Masala Chai,Hot Beverages,1,90,90
+2026-09-09,12:59:00,Flat White,Hot Beverages,1,190,190
+2026-09-09,12:59:00,Cappuccino,Hot Beverages,1,170,170
+2026-09-09,12:59:00,Fresh Lime Soda,Cold Beverages,1,110,110
+2026-09-09,13:00:18,Cold Coffee,Cold Beverages,1,200,200
+2026-09-09,13:01:05,Iced Latte,Cold Beverages,1,210,210
+2026-09-09,13:04:32,Egg Bhurji Pav,Snacks,1,170,170
+2026-09-09,13:05:02,Peri Peri Fries,Snacks,1,160,160
+2026-09-09,13:12:36,Cold Coffee,Cold Beverages,1,200,200
+2026-09-09,13:12:36,Fresh Lime Soda,Cold Beverages,1,110,110
+2026-09-09,13:15:21,Iced Latte,Cold Beverages,2,210,420
+2026-09-09,13:15:21,Cold Coffee,Cold Beverages,1,200,200
+2026-09-09,13:15:21,Iced Americano,Cold Beverages,1,170,170
+2026-09-09,13:17:00,Americano,Hot Beverages,1,140,140
+2026-09-09,13:17:36,Cold Brew,Cold Beverages,1,220,220
+2026-09-09,13:32:16,Iced Americano,Cold Beverages,1,170,170
+2026-09-09,13:32:16,Masala Chai,Hot Beverages,1,90,90
+2026-09-09,13:33:04,Cheese Omelette Toast,Snacks,1,180,180
+2026-09-09,13:40:18,Masala Chai,Hot Beverages,1,90,90
+2026-09-09,13:40:18,Iced Latte,Cold Beverages,1,210,210
+2026-09-09,13:40:28,Masala Chai,Hot Beverages,1,90,90
+2026-09-09,13:40:28,Iced Americano,Cold Beverages,1,170,170
+2026-09-09,13:42:38,Cold Coffee,Cold Beverages,1,200,200
+2026-09-09,13:43:59,Cheese Omelette Toast,Snacks,1,180,180
+2026-09-09,14:27:18,Cold Brew,Cold Beverages,2,220,440
+2026-09-09,14:27:18,Masala Chai,Hot Beverages,1,90,90
+2026-09-09,15:48:40,Banana Bread,Bakery,1,130,130
+2026-09-09,17:02:23,Flat White,Hot Beverages,1,190,190
+2026-09-09,17:03:29,Iced Latte,Cold Beverages,1,210,210
+2026-09-09,17:03:29,Cold Brew,Cold Beverages,1,220,220
+2026-09-09,17:13:11,Iced Americano,Cold Beverages,1,170,170
+2026-09-09,17:13:11,Peri Peri Fries,Snacks,1,160,160
+2026-09-09,17:13:11,Choco Brownie,Bakery,1,150,150
+2026-09-09,17:25:50,Blueberry Muffin,Bakery,3,120,360
+2026-09-09,17:25:50,Cold Brew,Cold Beverages,1,220,220
+2026-09-09,17:25:50,Cafe Latte,Hot Beverages,1,180,180
+2026-09-09,18:04:02,Butter Croissant,Bakery,1,140,140
+2026-09-09,18:11:53,Cappuccino,Hot Beverages,1,170,170
+2026-09-09,18:11:53,Iced Americano,Cold Beverages,1,170,170
+2026-09-09,18:28:41,Cold Coffee,Cold Beverages,1,200,200
+2026-09-09,18:28:41,Iced Americano,Cold Beverages,1,170,170
+2026-09-09,18:31:07,Iced Latte,Cold Beverages,2,210,420
+2026-09-09,18:31:07,Masala Chai,Hot Beverages,1,90,90
+2026-09-09,18:32:08,Cold Brew,Cold Beverages,1,220,220
+2026-09-09,18:32:08,Masala Chai,Hot Beverages,1,90,90
+2026-09-09,18:46:50,Americano,Hot Beverages,1,140,140
+2026-09-09,18:46:50,Veg Grilled Sandwich,Snacks,1,190,190
+2026-09-09,18:46:50,Cold Coffee,Cold Beverages,2,200,400
+2026-09-09,19:03:52,Masala Chai,Hot Beverages,2,90,180
+2026-09-09,19:13:32,Butter Croissant,Bakery,1,140,140
+2026-09-09,19:16:33,Cafe Latte,Hot Beverages,2,180,360
+2026-09-09,19:34:44,Blueberry Muffin,Bakery,1,120,120
+2026-09-09,19:35:42,Cafe Latte,Hot Beverages,1,180,180
+2026-09-09,19:35:59,Masala Chai,Hot Beverages,1,90,90
+2026-09-09,19:35:59,Peri Peri Fries,Snacks,1,160,160
+2026-09-09,19:35:59,Egg Bhurji Pav,Snacks,1,170,170
+2026-09-09,19:35:59,Cheese Omelette Toast,Snacks,1,180,180
+2026-09-09,19:39:40,Iced Latte,Cold Beverages,1,210,210
+2026-09-09,19:53:15,Iced Latte,Cold Beverages,2,210,420
+2026-09-09,19:53:51,Flat White,Hot Beverages,2,190,380
+2026-09-09,20:04:59,Masala Chai,Hot Beverages,1,90,90
+2026-09-09,20:07:33,Egg Bhurji Pav,Snacks,1,170,170
+2026-09-09,20:07:33,Chicken Sandwich,Snacks,1,240,240
+2026-09-09,20:07:33,Choco Brownie,Bakery,1,150,150
+2026-09-09,20:09:56,Cappuccino,Hot Beverages,1,170,170
+2026-09-09,20:10:19,Egg Bhurji Pav,Snacks,1,170,170
+2026-09-09,20:10:19,Americano,Hot Beverages,1,140,140
+2026-09-09,20:10:19,Masala Chai,Hot Beverages,1,90,90
+2026-09-09,20:14:58,Egg Bhurji Pav,Snacks,1,170,170
+2026-09-09,20:14:58,Cappuccino,Hot Beverages,1,170,170
+2026-09-09,20:30:52,Cafe Latte,Hot Beverages,1,180,180
+2026-09-09,20:30:52,Chicken Sandwich,Snacks,1,240,240
+2026-09-09,20:33:09,Cafe Latte,Hot Beverages,1,180,180
+2026-09-09,20:43:51,Choco Brownie,Bakery,1,150,150
+2026-09-09,20:43:51,Peri Peri Fries,Snacks,2,160,320
+2026-09-09,20:43:51,Fresh Lime Soda,Cold Beverages,2,110,220
+2026-09-09,20:43:51,Cold Brew,Cold Beverages,1,220,220
+2026-09-09,20:52:16,Peri Peri Fries,Snacks,1,160,160
+2026-09-09,20:52:16,Masala Chai,Hot Beverages,1,90,90
+2026-09-09,20:52:16,Fresh Lime Soda,Cold Beverages,2,110,220
+2026-09-09,21:33:35,Cold Coffee,Cold Beverages,1,200,200
+2026-09-09,21:33:35,Iced Latte,Cold Beverages,1,210,210
+2026-09-09,21:33:35,Masala Chai,Hot Beverages,1,90,90
+2026-09-09,21:49:29,Choco Brownie,Bakery,1,150,150
+2026-09-10,08:25:32,Cafe Latte,Hot Beverages,1,180,180
+2026-09-10,09:15:11,Cappuccino,Hot Beverages,1,170,170
+2026-09-10,09:16:59,Fresh Lime Soda,Cold Beverages,2,110,220
+2026-09-10,09:16:59,Blueberry Muffin,Bakery,1,120,120
+2026-09-10,09:17:28,Masala Chai,Hot Beverages,1,90,90
+2026-09-10,09:17:28,Cafe Latte,Hot Beverages,1,180,180
+2026-09-10,09:17:28,Espresso,Hot Beverages,1,120,120
+2026-09-10,09:38:04,Cheese Omelette Toast,Snacks,1,180,180
+2026-09-10,09:38:49,Cafe Latte,Hot Beverages,1,180,180
+2026-09-10,09:38:49,Espresso,Hot Beverages,2,120,240
+2026-09-10,09:38:49,Flat White,Hot Beverages,1,190,190
+2026-09-10,09:43:27,Cold Coffee,Cold Beverages,1,200,200
+2026-09-10,09:43:27,Masala Chai,Hot Beverages,1,90,90
+2026-09-10,09:45:31,Iced Latte,Cold Beverages,2,210,420
+2026-09-10,09:49:34,Cappuccino,Hot Beverages,1,170,170
+2026-09-10,09:49:34,Blueberry Muffin,Bakery,1,120,120
+2026-09-10,09:52:42,Cappuccino,Hot Beverages,1,170,170
+2026-09-10,09:52:42,Espresso,Hot Beverages,1,120,120
+2026-09-10,09:52:42,Cafe Latte,Hot Beverages,1,180,180
+2026-09-10,09:53:03,Choco Brownie,Bakery,1,150,150
+2026-09-10,09:53:11,Masala Chai,Hot Beverages,1,90,90
+2026-09-10,09:53:11,Blueberry Muffin,Bakery,2,120,240
+2026-09-10,10:08:14,Cappuccino,Hot Beverages,2,170,340
+2026-09-10,10:08:14,Espresso,Hot Beverages,1,120,120
+2026-09-10,10:10:28,Cafe Latte,Hot Beverages,1,180,180
+2026-09-10,10:10:28,Americano,Hot Beverages,1,140,140
+2026-09-10,10:17:02,Masala Chai,Hot Beverages,1,90,90
+2026-09-10,10:17:02,Cold Coffee,Cold Beverages,1,200,200
+2026-09-10,10:17:02,Butter Croissant,Bakery,1,140,140
+2026-09-10,10:17:02,Cafe Latte,Hot Beverages,1,180,180
+2026-09-10,10:17:18,Egg Bhurji Pav,Snacks,1,170,170
+2026-09-10,10:17:18,Banana Bread,Bakery,2,130,260
+2026-09-10,10:21:45,Americano,Hot Beverages,1,140,140
+2026-09-10,10:21:45,Espresso,Hot Beverages,1,120,120
+2026-09-10,10:21:45,Veg Grilled Sandwich,Snacks,1,190,190
+2026-09-10,10:21:45,Blueberry Muffin,Bakery,1,120,120
+2026-09-10,10:37:47,Peri Peri Fries,Snacks,1,160,160
+2026-09-10,10:39:33,Masala Chai,Hot Beverages,2,90,180
+2026-09-10,10:43:06,Blueberry Muffin,Bakery,2,120,240
+2026-09-10,10:46:40,Choco Brownie,Bakery,2,150,300
+2026-09-10,10:46:40,Cheese Omelette Toast,Snacks,1,180,180
+2026-09-10,10:51:56,Cheese Omelette Toast,Snacks,2,180,360
+2026-09-10,10:51:56,Cappuccino,Hot Beverages,1,170,170
+2026-09-10,10:51:56,Banana Bread,Bakery,1,130,130
+2026-09-10,10:52:09,Cappuccino,Hot Beverages,1,170,170
+2026-09-10,10:52:09,Peri Peri Fries,Snacks,1,160,160
+2026-09-10,10:52:09,Iced Americano,Cold Beverages,1,170,170
+2026-09-10,10:53:16,Cold Brew,Cold Beverages,2,220,440
+2026-09-10,10:53:16,Cappuccino,Hot Beverages,1,170,170
+2026-09-10,10:53:18,Cafe Latte,Hot Beverages,1,180,180
+2026-09-10,11:18:37,Flat White,Hot Beverages,1,190,190
+2026-09-10,11:18:37,Cold Coffee,Cold Beverages,1,200,200
+2026-09-10,11:18:37,Peri Peri Fries,Snacks,2,160,320
+2026-09-10,11:41:48,Cafe Latte,Hot Beverages,1,180,180
+2026-09-10,11:41:48,Espresso,Hot Beverages,1,120,120
+2026-09-10,11:48:04,Cappuccino,Hot Beverages,1,170,170
+2026-09-10,11:52:59,Veg Grilled Sandwich,Snacks,1,190,190
+2026-09-10,11:52:59,Cheese Omelette Toast,Snacks,1,180,180
+2026-09-10,12:02:46,Cafe Latte,Hot Beverages,1,180,180
+2026-09-10,12:02:46,Peri Peri Fries,Snacks,1,160,160
+2026-09-10,12:07:00,Flat White,Hot Beverages,1,190,190
+2026-09-10,12:14:23,Egg Bhurji Pav,Snacks,1,170,170
+2026-09-10,12:14:23,Cold Brew,Cold Beverages,1,220,220
+2026-09-10,12:14:23,Masala Chai,Hot Beverages,2,90,180
+2026-09-10,12:14:23,Cafe Latte,Hot Beverages,1,180,180
+2026-09-10,12:52:56,Flat White,Hot Beverages,1,190,190
+2026-09-10,12:56:22,Peri Peri Fries,Snacks,1,160,160
+2026-09-10,13:09:57,Veg Grilled Sandwich,Snacks,1,190,190
+2026-09-10,13:09:57,Masala Chai,Hot Beverages,2,90,180
+2026-09-10,13:12:04,Chicken Sandwich,Snacks,1,240,240
+2026-09-10,13:12:04,Cold Coffee,Cold Beverages,1,200,200
+2026-09-10,13:12:04,Americano,Hot Beverages,2,140,280
+2026-09-10,13:12:04,Egg Bhurji Pav,Snacks,1,170,170
+2026-09-10,13:14:55,Iced Latte,Cold Beverages,1,210,210
+2026-09-10,13:14:55,Cappuccino,Hot Beverages,1,170,170
+2026-09-10,13:14:55,Peri Peri Fries,Snacks,2,160,320
+2026-09-10,13:25:55,Masala Chai,Hot Beverages,1,90,90
+2026-09-10,13:28:37,Cafe Latte,Hot Beverages,1,180,180
+2026-09-10,13:34:10,Cafe Latte,Hot Beverages,1,180,180
+2026-09-10,13:35:17,Cold Brew,Cold Beverages,1,220,220
+2026-09-10,13:35:17,Egg Bhurji Pav,Snacks,1,170,170
+2026-09-10,13:35:17,Masala Chai,Hot Beverages,1,90,90
+2026-09-10,13:43:07,Cappuccino,Hot Beverages,1,170,170
+2026-09-10,13:52:26,Cold Coffee,Cold Beverages,1,200,200
+2026-09-10,13:52:26,Cappuccino,Hot Beverages,2,170,340
+2026-09-10,13:56:49,Banana Bread,Bakery,1,130,130
+2026-09-10,14:14:20,Chicken Sandwich,Snacks,1,240,240
+2026-09-10,14:50:28,Masala Chai,Hot Beverages,1,90,90
+2026-09-10,14:50:28,Chicken Sandwich,Snacks,1,240,240
+2026-09-10,14:50:28,Egg Bhurji Pav,Snacks,1,170,170
+2026-09-10,15:09:22,Cold Coffee,Cold Beverages,3,200,600
+2026-09-10,15:09:22,Cappuccino,Hot Beverages,1,170,170
+2026-09-10,15:24:04,Cappuccino,Hot Beverages,2,170,340
+2026-09-10,15:30:54,Cheese Omelette Toast,Snacks,2,180,360
+2026-09-10,15:30:54,Egg Bhurji Pav,Snacks,1,170,170
+2026-09-10,15:30:54,Cafe Latte,Hot Beverages,1,180,180
+2026-09-10,15:47:59,Cappuccino,Hot Beverages,1,170,170
+2026-09-10,15:47:59,Cheese Omelette Toast,Snacks,1,180,180
+2026-09-10,15:47:59,Iced Latte,Cold Beverages,1,210,210
+2026-09-10,15:48:55,Cold Coffee,Cold Beverages,1,200,200
+2026-09-10,15:48:55,Cappuccino,Hot Beverages,1,170,170
+2026-09-10,16:15:41,Iced Americano,Cold Beverages,1,170,170
+2026-09-10,16:31:31,Americano,Hot Beverages,1,140,140
+2026-09-10,16:33:10,Banana Bread,Bakery,1,130,130
+2026-09-10,16:33:10,Masala Chai,Hot Beverages,1,90,90
+2026-09-10,17:00:28,Cappuccino,Hot Beverages,1,170,170
+2026-09-10,17:00:28,Flat White,Hot Beverages,1,190,190
+2026-09-10,17:06:42,Cold Coffee,Cold Beverages,1,200,200
+2026-09-10,17:11:45,Masala Chai,Hot Beverages,2,90,180
+2026-09-10,17:11:45,Americano,Hot Beverages,1,140,140
+2026-09-10,17:14:07,Cold Coffee,Cold Beverages,1,200,200
+2026-09-10,17:14:56,Cafe Latte,Hot Beverages,1,180,180
+2026-09-10,17:14:56,Veg Grilled Sandwich,Snacks,1,190,190
+2026-09-10,17:31:23,Butter Croissant,Bakery,1,140,140
+2026-09-10,17:31:23,Cold Brew,Cold Beverages,1,220,220
+2026-09-10,17:59:05,Masala Chai,Hot Beverages,2,90,180
+2026-09-10,18:28:50,Cappuccino,Hot Beverages,1,170,170
+2026-09-10,18:28:50,Espresso,Hot Beverages,1,120,120
+2026-09-10,18:31:29,Veg Grilled Sandwich,Snacks,1,190,190
+2026-09-10,18:31:29,Americano,Hot Beverages,1,140,140
+2026-09-10,18:31:29,Butter Croissant,Bakery,1,140,140
+2026-09-10,18:45:52,Masala Chai,Hot Beverages,2,90,180
+2026-09-10,18:45:52,Cheese Omelette Toast,Snacks,1,180,180
+2026-09-10,18:59:48,Espresso,Hot Beverages,1,120,120
+2026-09-10,19:10:44,Cafe Latte,Hot Beverages,1,180,180
+2026-09-10,19:15:50,Masala Chai,Hot Beverages,2,90,180
+2026-09-10,19:15:50,Cafe Latte,Hot Beverages,1,180,180
+2026-09-10,19:21:27,Cafe Latte,Hot Beverages,1,180,180
+2026-09-10,19:21:27,Cappuccino,Hot Beverages,2,170,340
+2026-09-10,19:21:27,Choco Brownie,Bakery,1,150,150
+2026-09-10,19:26:44,Choco Brownie,Bakery,1,150,150
+2026-09-10,19:26:44,Iced Latte,Cold Beverages,1,210,210
+2026-09-10,19:36:51,Cafe Latte,Hot Beverages,1,180,180
+2026-09-10,19:41:01,Masala Chai,Hot Beverages,1,90,90
+2026-09-10,19:41:01,Flat White,Hot Beverages,1,190,190
+2026-09-10,19:41:01,Cafe Latte,Hot Beverages,1,180,180
+2026-09-10,19:41:01,Cappuccino,Hot Beverages,1,170,170
+2026-09-10,19:47:56,Choco Brownie,Bakery,1,150,150
+2026-09-10,19:47:56,Americano,Hot Beverages,1,140,140
+2026-09-10,19:51:16,Butter Croissant,Bakery,1,140,140
+2026-09-10,19:51:16,Masala Chai,Hot Beverages,1,90,90
+2026-09-10,19:51:16,Cafe Latte,Hot Beverages,1,180,180
+2026-09-10,19:55:50,Butter Croissant,Bakery,1,140,140
+2026-09-10,19:55:50,Choco Brownie,Bakery,1,150,150
+2026-09-10,21:44:29,Cappuccino,Hot Beverages,1,170,170
+2026-09-11,08:25:39,Masala Chai,Hot Beverages,1,90,90
+2026-09-11,08:25:39,Cold Coffee,Cold Beverages,1,200,200
+2026-09-11,08:25:39,Cafe Latte,Hot Beverages,1,180,180
+2026-09-11,08:28:49,Choco Brownie,Bakery,1,150,150
+2026-09-11,08:28:49,Masala Chai,Hot Beverages,1,90,90
+2026-09-11,08:47:43,Americano,Hot Beverages,1,140,140
+2026-09-11,08:47:43,Choco Brownie,Bakery,2,150,300
+2026-09-11,08:52:53,Egg Bhurji Pav,Snacks,1,170,170
+2026-09-11,08:55:55,Espresso,Hot Beverages,1,120,120
+2026-09-11,09:02:05,Espresso,Hot Beverages,2,120,240
+2026-09-11,09:02:05,Veg Grilled Sandwich,Snacks,1,190,190
+2026-09-11,09:02:05,Flat White,Hot Beverages,1,190,190
+2026-09-11,09:02:05,Cafe Latte,Hot Beverages,1,180,180
+2026-09-11,09:05:43,Butter Croissant,Bakery,1,140,140
+2026-09-11,09:07:55,Chicken Sandwich,Snacks,1,240,240
+2026-09-11,09:13:29,Banana Bread,Bakery,1,130,130
+2026-09-11,09:13:29,Blueberry Muffin,Bakery,1,120,120
+2026-09-11,09:15:47,Choco Brownie,Bakery,1,150,150
+2026-09-11,09:15:47,Cafe Latte,Hot Beverages,1,180,180
+2026-09-11,09:19:53,Blueberry Muffin,Bakery,1,120,120
+2026-09-11,09:26:21,Cappuccino,Hot Beverages,1,170,170
+2026-09-11,09:26:21,Banana Bread,Bakery,1,130,130
+2026-09-11,09:26:21,Masala Chai,Hot Beverages,1,90,90
+2026-09-11,09:26:21,Blueberry Muffin,Bakery,2,120,240
+2026-09-11,09:31:32,Cold Coffee,Cold Beverages,1,200,200
+2026-09-11,09:31:32,Cafe Latte,Hot Beverages,2,180,360
+2026-09-11,09:31:32,Masala Chai,Hot Beverages,1,90,90
+2026-09-11,09:34:11,Flat White,Hot Beverages,1,190,190
+2026-09-11,09:34:11,Peri Peri Fries,Snacks,1,160,160
+2026-09-11,09:36:48,Cappuccino,Hot Beverages,1,170,170
+2026-09-11,09:37:35,Fresh Lime Soda,Cold Beverages,1,110,110
+2026-09-11,09:37:35,Cafe Latte,Hot Beverages,1,180,180
+2026-09-11,09:37:35,Peri Peri Fries,Snacks,1,160,160
+2026-09-11,09:49:23,Cafe Latte,Hot Beverages,1,180,180
+2026-09-11,09:49:23,Masala Chai,Hot Beverages,1,90,90
+2026-09-11,09:57:32,Blueberry Muffin,Bakery,1,120,120
+2026-09-11,09:57:32,Veg Grilled Sandwich,Snacks,1,190,190
+2026-09-11,09:58:23,Masala Chai,Hot Beverages,1,90,90
+2026-09-11,10:17:40,Butter Croissant,Bakery,1,140,140
+2026-09-11,10:17:40,Cappuccino,Hot Beverages,1,170,170
+2026-09-11,10:36:02,Cold Coffee,Cold Beverages,1,200,200
+2026-09-11,10:36:02,Espresso,Hot Beverages,1,120,120
+2026-09-11,10:36:02,Butter Croissant,Bakery,2,140,280
+2026-09-11,10:36:02,Cafe Latte,Hot Beverages,1,180,180
+2026-09-11,10:36:32,Cafe Latte,Hot Beverages,1,180,180
+2026-09-11,10:36:32,Cheese Omelette Toast,Snacks,1,180,180
+2026-09-11,10:37:44,Chicken Sandwich,Snacks,2,240,480
+2026-09-11,10:42:10,Iced Latte,Cold Beverages,2,210,420
+2026-09-11,10:42:10,Masala Chai,Hot Beverages,1,90,90
+2026-09-11,10:52:44,Iced Latte,Cold Beverages,1,210,210
+2026-09-11,10:56:10,Espresso,Hot Beverages,1,120,120
+2026-09-11,11:03:13,Cafe Latte,Hot Beverages,1,180,180
+2026-09-11,11:03:13,Veg Grilled Sandwich,Snacks,1,190,190
+2026-09-11,11:03:13,Cheese Omelette Toast,Snacks,1,180,180
+2026-09-11,11:03:13,Cold Brew,Cold Beverages,2,220,440
+2026-09-11,11:14:43,Iced Latte,Cold Beverages,1,210,210
+2026-09-11,11:16:58,Masala Chai,Hot Beverages,1,90,90
+2026-09-11,11:16:58,Cafe Latte,Hot Beverages,1,180,180
+2026-09-11,11:23:50,Cold Coffee,Cold Beverages,1,200,200
+2026-09-11,11:23:50,Espresso,Hot Beverages,1,120,120
+2026-09-11,11:23:50,Americano,Hot Beverages,1,140,140
+2026-09-11,11:43:03,Blueberry Muffin,Bakery,2,120,240
+2026-09-11,11:43:03,Cafe Latte,Hot Beverages,1,180,180
+2026-09-11,11:44:15,Cold Coffee,Cold Beverages,1,200,200
+2026-09-11,11:44:15,Veg Grilled Sandwich,Snacks,1,190,190
+2026-09-11,11:57:04,Cappuccino,Hot Beverages,1,170,170
+2026-09-11,12:01:48,Egg Bhurji Pav,Snacks,1,170,170
+2026-09-11,12:06:06,Fresh Lime Soda,Cold Beverages,1,110,110
+2026-09-11,12:06:06,Choco Brownie,Bakery,1,150,150
+2026-09-11,12:07:58,Peri Peri Fries,Snacks,1,160,160
+2026-09-11,12:07:58,Flat White,Hot Beverages,1,190,190
+2026-09-11,12:09:45,Egg Bhurji Pav,Snacks,1,170,170
+2026-09-11,12:12:25,Peri Peri Fries,Snacks,1,160,160
+2026-09-11,12:21:08,Americano,Hot Beverages,2,140,280
+2026-09-11,12:21:08,Cafe Latte,Hot Beverages,1,180,180
+2026-09-11,12:21:08,Butter Croissant,Bakery,1,140,140
+2026-09-11,12:21:08,Chicken Sandwich,Snacks,1,240,240
+2026-09-11,12:22:58,Cappuccino,Hot Beverages,1,170,170
+2026-09-11,12:34:25,Blueberry Muffin,Bakery,1,120,120
+2026-09-11,12:34:25,Cold Coffee,Cold Beverages,2,200,400
+2026-09-11,13:06:50,Cappuccino,Hot Beverages,1,170,170
+2026-09-11,13:08:50,Peri Peri Fries,Snacks,1,160,160
+2026-09-11,13:08:50,Cafe Latte,Hot Beverages,1,180,180
+2026-09-11,13:17:21,Iced Americano,Cold Beverages,1,170,170
+2026-09-11,13:25:09,Iced Americano,Cold Beverages,2,170,340
+2026-09-11,13:25:09,Butter Croissant,Bakery,1,140,140
+2026-09-11,13:26:18,Espresso,Hot Beverages,1,120,120
+2026-09-11,13:26:18,Peri Peri Fries,Snacks,1,160,160
+2026-09-11,13:26:21,Chicken Sandwich,Snacks,1,240,240
+2026-09-11,13:26:21,Masala Chai,Hot Beverages,1,90,90
+2026-09-11,13:26:21,Americano,Hot Beverages,1,140,140
+2026-09-11,13:26:21,Cold Brew,Cold Beverages,1,220,220
+2026-09-11,13:31:09,Peri Peri Fries,Snacks,1,160,160
+2026-09-11,13:34:42,Masala Chai,Hot Beverages,1,90,90
+2026-09-11,13:38:48,Iced Americano,Cold Beverages,1,170,170
+2026-09-11,13:38:48,Veg Grilled Sandwich,Snacks,1,190,190
+2026-09-11,13:38:48,Masala Chai,Hot Beverages,1,90,90
+2026-09-11,13:52:44,Masala Chai,Hot Beverages,1,90,90
+2026-09-11,13:52:44,Fresh Lime Soda,Cold Beverages,1,110,110
+2026-09-11,14:32:19,Peri Peri Fries,Snacks,1,160,160
+2026-09-11,14:52:13,Veg Grilled Sandwich,Snacks,1,190,190
+2026-09-11,14:52:13,Cold Coffee,Cold Beverages,1,200,200
+2026-09-11,14:52:13,Cappuccino,Hot Beverages,1,170,170
+2026-09-11,15:01:18,Cafe Latte,Hot Beverages,1,180,180
+2026-09-11,15:37:52,Butter Croissant,Bakery,2,140,280
+2026-09-11,15:52:44,Cafe Latte,Hot Beverages,1,180,180
+2026-09-11,16:16:32,Masala Chai,Hot Beverages,1,90,90
+2026-09-11,16:16:32,Veg Grilled Sandwich,Snacks,1,190,190
+2026-09-11,16:16:32,Egg Bhurji Pav,Snacks,1,170,170
+2026-09-11,16:24:58,Cappuccino,Hot Beverages,1,170,170
+2026-09-11,16:34:25,Masala Chai,Hot Beverages,1,90,90
+2026-09-11,16:34:25,Peri Peri Fries,Snacks,1,160,160
+2026-09-11,16:34:25,Egg Bhurji Pav,Snacks,1,170,170
+2026-09-11,16:34:25,Flat White,Hot Beverages,1,190,190
+2026-09-11,16:47:07,Masala Chai,Hot Beverages,1,90,90
+2026-09-11,16:47:07,Cold Coffee,Cold Beverages,1,200,200
+2026-09-11,16:47:07,Blueberry Muffin,Bakery,1,120,120
+2026-09-11,16:47:07,Espresso,Hot Beverages,1,120,120
+2026-09-11,17:10:15,Banana Bread,Bakery,2,130,260
+2026-09-11,17:14:12,Cappuccino,Hot Beverages,1,170,170
+2026-09-11,17:17:40,Peri Peri Fries,Snacks,1,160,160
+2026-09-11,17:20:51,Cafe Latte,Hot Beverages,1,180,180
+2026-09-11,17:32:24,Cold Coffee,Cold Beverages,1,200,200
+2026-09-11,17:35:35,Veg Grilled Sandwich,Snacks,1,190,190
+2026-09-11,17:35:35,Cheese Omelette Toast,Snacks,1,180,180
+2026-09-11,17:35:35,Iced Americano,Cold Beverages,1,170,170
+2026-09-11,17:51:46,Cafe Latte,Hot Beverages,1,180,180
+2026-09-11,17:51:46,Cappuccino,Hot Beverages,2,170,340
+2026-09-11,17:55:58,Americano,Hot Beverages,3,140,420
+2026-09-11,18:03:19,Chicken Sandwich,Snacks,1,240,240
+2026-09-11,18:03:19,Cheese Omelette Toast,Snacks,1,180,180
+2026-09-11,18:04:12,Cappuccino,Hot Beverages,2,170,340
+2026-09-11,18:13:19,Cappuccino,Hot Beverages,1,170,170
+2026-09-11,18:13:19,Masala Chai,Hot Beverages,1,90,90
+2026-09-11,18:26:18,Flat White,Hot Beverages,1,190,190
+2026-09-11,18:26:18,Masala Chai,Hot Beverages,2,90,180
+2026-09-11,18:34:26,Flat White,Hot Beverages,2,190,380
+2026-09-11,18:36:34,Espresso,Hot Beverages,1,120,120
+2026-09-11,18:40:07,Espresso,Hot Beverages,1,120,120
+2026-09-11,18:40:07,Iced Americano,Cold Beverages,1,170,170
+2026-09-11,18:40:53,Chicken Sandwich,Snacks,1,240,240
+2026-09-11,18:40:53,Blueberry Muffin,Bakery,2,120,240
+2026-09-11,19:00:17,Masala Chai,Hot Beverages,1,90,90
+2026-09-11,19:02:47,Cafe Latte,Hot Beverages,1,180,180
+2026-09-11,19:12:17,Cheese Omelette Toast,Snacks,2,180,360
+2026-09-11,19:15:24,Cold Brew,Cold Beverages,1,220,220
+2026-09-11,19:52:19,Iced Latte,Cold Beverages,1,210,210
+2026-09-11,19:52:19,Chicken Sandwich,Snacks,1,240,240
+2026-09-11,20:02:42,Peri Peri Fries,Snacks,1,160,160
+2026-09-11,20:02:42,Chicken Sandwich,Snacks,1,240,240
+2026-09-11,20:02:51,Veg Grilled Sandwich,Snacks,1,190,190
+2026-09-11,20:02:51,Cold Coffee,Cold Beverages,1,200,200
+2026-09-11,20:02:55,Cafe Latte,Hot Beverages,1,180,180
+2026-09-11,20:08:52,Egg Bhurji Pav,Snacks,1,170,170
+2026-09-11,20:08:52,Iced Latte,Cold Beverages,1,210,210
+2026-09-11,20:30:52,Butter Croissant,Bakery,2,140,280
+2026-09-11,20:30:52,Cold Brew,Cold Beverages,2,220,440
+2026-09-11,20:30:52,Chicken Sandwich,Snacks,1,240,240
+2026-09-11,20:34:18,Cappuccino,Hot Beverages,1,170,170
+2026-09-11,20:34:18,Iced Latte,Cold Beverages,1,210,210
+2026-09-11,20:38:23,Fresh Lime Soda,Cold Beverages,2,110,220
+2026-09-11,21:24:50,Veg Grilled Sandwich,Snacks,1,190,190
+2026-09-11,21:24:50,Cappuccino,Hot Beverages,1,170,170
+2026-09-11,21:28:34,Cold Coffee,Cold Beverages,1,200,200
+2026-09-11,21:28:34,Choco Brownie,Bakery,1,150,150
+2026-09-11,21:34:28,Cold Coffee,Cold Beverages,1,200,200
+2026-09-11,21:34:28,Masala Chai,Hot Beverages,1,90,90
+2026-09-11,21:49:36,Masala Chai,Hot Beverages,1,90,90
+2026-09-12,08:16:07,Cafe Latte,Hot Beverages,1,180,180
+2026-09-12,08:16:07,Fresh Lime Soda,Cold Beverages,1,110,110
+2026-09-12,08:19:30,Cappuccino,Hot Beverages,1,170,170
+2026-09-12,08:54:47,Cappuccino,Hot Beverages,1,170,170
+2026-09-12,08:54:47,Blueberry Muffin,Bakery,1,120,120
+2026-09-12,08:54:47,Iced Americano,Cold Beverages,1,170,170
+2026-09-12,09:08:22,Cafe Latte,Hot Beverages,1,180,180
+2026-09-12,09:08:22,Masala Chai,Hot Beverages,1,90,90
+2026-09-12,09:09:09,Cafe Latte,Hot Beverages,1,180,180
+2026-09-12,09:10:02,Banana Bread,Bakery,2,130,260
+2026-09-12,09:11:04,Cappuccino,Hot Beverages,2,170,340
+2026-09-12,09:15:56,Choco Brownie,Bakery,1,150,150
+2026-09-12,09:15:56,Peri Peri Fries,Snacks,1,160,160
+2026-09-12,09:15:56,Cafe Latte,Hot Beverages,2,180,360
+2026-09-12,09:24:46,Cappuccino,Hot Beverages,1,170,170
+2026-09-12,09:24:46,Blueberry Muffin,Bakery,1,120,120
+2026-09-12,09:24:46,Cold Brew,Cold Beverages,1,220,220
+2026-09-12,09:39:00,Espresso,Hot Beverages,1,120,120
+2026-09-12,09:39:00,Choco Brownie,Bakery,2,150,300
+2026-09-12,09:59:30,Americano,Hot Beverages,1,140,140
+2026-09-12,09:59:30,Blueberry Muffin,Bakery,1,120,120
+2026-09-12,10:01:29,Masala Chai,Hot Beverages,1,90,90
+2026-09-12,10:02:26,Cafe Latte,Hot Beverages,1,180,180
+2026-09-12,10:02:26,Espresso,Hot Beverages,1,120,120
+2026-09-12,10:02:26,Masala Chai,Hot Beverages,1,90,90
+2026-09-12,10:22:26,Choco Brownie,Bakery,1,150,150
+2026-09-12,10:22:26,Cold Brew,Cold Beverages,1,220,220
+2026-09-12,10:29:35,Blueberry Muffin,Bakery,1,120,120
+2026-09-12,10:29:35,Masala Chai,Hot Beverages,2,90,180
+2026-09-12,10:29:35,Cafe Latte,Hot Beverages,1,180,180
+2026-09-12,10:29:35,Espresso,Hot Beverages,1,120,120
+2026-09-12,10:37:17,Masala Chai,Hot Beverages,1,90,90
+2026-09-12,10:37:33,Americano,Hot Beverages,1,140,140
+2026-09-12,10:37:33,Chicken Sandwich,Snacks,1,240,240
+2026-09-12,10:37:33,Espresso,Hot Beverages,1,120,120
+2026-09-12,10:41:19,Peri Peri Fries,Snacks,1,160,160
+2026-09-12,10:46:46,Butter Croissant,Bakery,1,140,140
+2026-09-12,10:46:46,Masala Chai,Hot Beverages,3,90,270
+2026-09-12,11:06:39,Cappuccino,Hot Beverages,1,170,170
+2026-09-12,11:10:43,Iced Latte,Cold Beverages,1,210,210
+2026-09-12,11:10:43,Cafe Latte,Hot Beverages,1,180,180
+2026-09-12,11:18:15,Cold Coffee,Cold Beverages,2,200,400
+2026-09-12,11:22:14,Veg Grilled Sandwich,Snacks,3,190,570
+2026-09-12,11:23:11,Cold Coffee,Cold Beverages,1,200,200
+2026-09-12,11:26:17,Americano,Hot Beverages,1,140,140
+2026-09-12,11:32:16,Iced Latte,Cold Beverages,1,210,210
+2026-09-12,11:32:16,Masala Chai,Hot Beverages,1,90,90
+2026-09-12,11:32:16,Chicken Sandwich,Snacks,1,240,240
+2026-09-12,11:32:16,Cappuccino,Hot Beverages,1,170,170
+2026-09-12,11:34:50,Flat White,Hot Beverages,1,190,190
+2026-09-12,11:34:50,Cappuccino,Hot Beverages,1,170,170
+2026-09-12,11:37:08,Peri Peri Fries,Snacks,1,160,160
+2026-09-12,11:37:36,Cheese Omelette Toast,Snacks,1,180,180
+2026-09-12,11:53:18,Cappuccino,Hot Beverages,1,170,170
+2026-09-12,11:54:31,Veg Grilled Sandwich,Snacks,1,190,190
+2026-09-12,11:58:11,Americano,Hot Beverages,1,140,140
+2026-09-12,11:59:07,Flat White,Hot Beverages,1,190,190
+2026-09-12,11:59:07,Banana Bread,Bakery,1,130,130
+2026-09-12,12:08:48,Cold Coffee,Cold Beverages,1,200,200
+2026-09-12,12:09:04,Iced Americano,Cold Beverages,1,170,170
+2026-09-12,12:17:39,Chicken Sandwich,Snacks,1,240,240
+2026-09-12,12:19:21,Cheese Omelette Toast,Snacks,1,180,180
+2026-09-12,12:19:21,Butter Croissant,Bakery,2,140,280
+2026-09-12,12:24:35,Cappuccino,Hot Beverages,1,170,170
+2026-09-12,12:31:16,Masala Chai,Hot Beverages,1,90,90
+2026-09-12,12:31:16,Peri Peri Fries,Snacks,1,160,160
+2026-09-12,12:37:39,Cappuccino,Hot Beverages,2,170,340
+2026-09-12,12:37:39,Cold Brew,Cold Beverages,1,220,220
+2026-09-12,12:37:39,Masala Chai,Hot Beverages,1,90,90
+2026-09-12,12:39:58,Cold Coffee,Cold Beverages,2,200,400
+2026-09-12,12:39:58,Cappuccino,Hot Beverages,2,170,340
+2026-09-12,12:40:49,Veg Grilled Sandwich,Snacks,1,190,190
+2026-09-12,12:43:22,Cappuccino,Hot Beverages,1,170,170
+2026-09-12,12:43:22,Cold Brew,Cold Beverages,1,220,220
+2026-09-12,12:43:22,Peri Peri Fries,Snacks,1,160,160
+2026-09-12,12:43:22,Masala Chai,Hot Beverages,1,90,90
+2026-09-12,12:44:21,Cheese Omelette Toast,Snacks,1,180,180
+2026-09-12,12:44:21,Americano,Hot Beverages,1,140,140
+2026-09-12,12:46:26,Cappuccino,Hot Beverages,1,170,170
+2026-09-12,12:46:26,Egg Bhurji Pav,Snacks,1,170,170
+2026-09-12,12:47:11,Iced Americano,Cold Beverages,1,170,170
+2026-09-12,12:52:29,Iced Americano,Cold Beverages,1,170,170
+2026-09-12,12:52:29,Blueberry Muffin,Bakery,2,120,240
+2026-09-12,12:52:29,Cafe Latte,Hot Beverages,1,180,180
+2026-09-12,12:52:29,Cold Brew,Cold Beverages,3,220,660
+2026-09-12,13:02:46,Egg Bhurji Pav,Snacks,2,170,340
+2026-09-12,13:02:46,Iced Latte,Cold Beverages,1,210,210
+2026-09-12,13:05:40,Cafe Latte,Hot Beverages,1,180,180
+2026-09-12,13:06:51,Peri Peri Fries,Snacks,2,160,320
+2026-09-12,13:14:23,Cappuccino,Hot Beverages,1,170,170
+2026-09-12,13:14:23,Masala Chai,Hot Beverages,1,90,90
+2026-09-12,13:17:07,Cafe Latte,Hot Beverages,1,180,180
+2026-09-12,13:17:09,Cappuccino,Hot Beverages,1,170,170
+2026-09-12,13:19:45,Espresso,Hot Beverages,1,120,120
+2026-09-12,13:39:06,Espresso,Hot Beverages,1,120,120
+2026-09-12,13:40:40,Egg Bhurji Pav,Snacks,1,170,170
+2026-09-12,13:40:40,Peri Peri Fries,Snacks,3,160,480
+2026-09-12,13:41:18,Masala Chai,Hot Beverages,1,90,90
+2026-09-12,13:41:18,Choco Brownie,Bakery,2,150,300
+2026-09-12,13:42:35,Cheese Omelette Toast,Snacks,3,180,540
+2026-09-12,13:42:35,Chicken Sandwich,Snacks,1,240,240
+2026-09-12,13:45:16,Cappuccino,Hot Beverages,1,170,170
+2026-09-12,13:47:23,Egg Bhurji Pav,Snacks,1,170,170
+2026-09-12,13:47:23,Veg Grilled Sandwich,Snacks,1,190,190
+2026-09-12,13:49:51,Peri Peri Fries,Snacks,1,160,160
+2026-09-12,13:49:51,Veg Grilled Sandwich,Snacks,1,190,190
+2026-09-12,13:54:23,Masala Chai,Hot Beverages,1,90,90
+2026-09-12,13:54:23,Peri Peri Fries,Snacks,1,160,160
+2026-09-12,13:54:23,Cappuccino,Hot Beverages,1,170,170
+2026-09-12,13:57:46,Cappuccino,Hot Beverages,2,170,340
+2026-09-12,14:07:00,Iced Latte,Cold Beverages,2,210,420
+2026-09-12,14:07:08,Egg Bhurji Pav,Snacks,2,170,340
+2026-09-12,14:07:08,Banana Bread,Bakery,1,130,130
+2026-09-12,14:07:08,Blueberry Muffin,Bakery,1,120,120
+2026-09-12,14:07:08,Masala Chai,Hot Beverages,1,90,90
+2026-09-12,14:13:39,Cafe Latte,Hot Beverages,1,180,180
+2026-09-12,14:16:33,Masala Chai,Hot Beverages,2,90,180
+2026-09-12,14:16:33,Cafe Latte,Hot Beverages,1,180,180
+2026-09-12,14:25:28,Espresso,Hot Beverages,2,120,240
+2026-09-12,14:30:33,Peri Peri Fries,Snacks,1,160,160
+2026-09-12,14:32:14,Americano,Hot Beverages,1,140,140
+2026-09-12,14:45:30,Veg Grilled Sandwich,Snacks,1,190,190
+2026-09-12,14:45:30,Choco Brownie,Bakery,1,150,150
+2026-09-12,14:58:15,Masala Chai,Hot Beverages,1,90,90
+2026-09-12,14:58:19,Espresso,Hot Beverages,1,120,120
+2026-09-12,14:58:19,Cheese Omelette Toast,Snacks,1,180,180
+2026-09-12,14:58:19,Cold Brew,Cold Beverages,1,220,220
+2026-09-12,15:01:41,Chicken Sandwich,Snacks,1,240,240
+2026-09-12,15:01:41,Peri Peri Fries,Snacks,1,160,160
+2026-09-12,15:03:37,Chicken Sandwich,Snacks,1,240,240
+2026-09-12,15:22:59,Chicken Sandwich,Snacks,1,240,240
+2026-09-12,15:22:59,Peri Peri Fries,Snacks,1,160,160
+2026-09-12,15:22:59,Iced Latte,Cold Beverages,1,210,210
+2026-09-12,15:22:59,Choco Brownie,Bakery,2,150,300
+2026-09-12,15:23:18,Iced Latte,Cold Beverages,1,210,210
+2026-09-12,15:28:21,Veg Grilled Sandwich,Snacks,1,190,190
+2026-09-12,15:28:21,Chicken Sandwich,Snacks,2,240,480
+2026-09-12,15:29:08,Choco Brownie,Bakery,1,150,150
+2026-09-12,15:34:56,Masala Chai,Hot Beverages,1,90,90
+2026-09-12,15:34:56,Cappuccino,Hot Beverages,1,170,170
+2026-09-12,15:39:22,Masala Chai,Hot Beverages,1,90,90
+2026-09-12,15:39:22,Veg Grilled Sandwich,Snacks,1,190,190
+2026-09-12,15:43:44,Americano,Hot Beverages,1,140,140
+2026-09-12,15:43:44,Choco Brownie,Bakery,1,150,150
+2026-09-12,15:43:44,Butter Croissant,Bakery,1,140,140
+2026-09-12,15:43:44,Cappuccino,Hot Beverages,1,170,170
+2026-09-12,15:47:58,Cappuccino,Hot Beverages,1,170,170
+2026-09-12,15:47:58,Cafe Latte,Hot Beverages,1,180,180
+2026-09-12,15:57:49,Masala Chai,Hot Beverages,1,90,90
+2026-09-12,16:00:37,Masala Chai,Hot Beverages,1,90,90
+2026-09-12,16:00:37,Cappuccino,Hot Beverages,1,170,170
+2026-09-12,16:08:55,Americano,Hot Beverages,1,140,140
+2026-09-12,16:13:34,Blueberry Muffin,Bakery,2,120,240
+2026-09-12,16:13:34,Cold Coffee,Cold Beverages,2,200,400
+2026-09-12,16:17:16,Cappuccino,Hot Beverages,1,170,170
+2026-09-12,16:17:16,Masala Chai,Hot Beverages,1,90,90
+2026-09-12,16:19:30,Cold Brew,Cold Beverages,1,220,220
+2026-09-12,16:20:35,Chicken Sandwich,Snacks,1,240,240
+2026-09-12,16:26:24,Egg Bhurji Pav,Snacks,1,170,170
+2026-09-12,16:26:24,Flat White,Hot Beverages,1,190,190
+2026-09-12,16:32:19,Masala Chai,Hot Beverages,1,90,90
+2026-09-12,16:32:19,Cold Coffee,Cold Beverages,1,200,200
+2026-09-12,17:24:16,Chicken Sandwich,Snacks,1,240,240
+2026-09-12,17:24:16,Cappuccino,Hot Beverages,1,170,170
+2026-09-12,17:39:56,Chicken Sandwich,Snacks,1,240,240
+2026-09-12,17:49:24,Blueberry Muffin,Bakery,1,120,120
+2026-09-12,17:49:24,Cold Coffee,Cold Beverages,1,200,200
+2026-09-12,17:49:24,Butter Croissant,Bakery,1,140,140
+2026-09-12,17:51:32,Flat White,Hot Beverages,1,190,190
+2026-09-12,17:51:32,Chicken Sandwich,Snacks,1,240,240
+2026-09-12,17:53:19,Masala Chai,Hot Beverages,1,90,90
+2026-09-12,17:53:19,Americano,Hot Beverages,1,140,140
+2026-09-12,17:59:54,Cheese Omelette Toast,Snacks,1,180,180
+2026-09-12,18:01:29,Chicken Sandwich,Snacks,1,240,240
+2026-09-12,18:08:35,Fresh Lime Soda,Cold Beverages,1,110,110
+2026-09-12,18:08:45,Peri Peri Fries,Snacks,1,160,160
+2026-09-12,18:08:45,Cappuccino,Hot Beverages,1,170,170
+2026-09-12,18:11:39,Veg Grilled Sandwich,Snacks,1,190,190
+2026-09-12,18:12:18,Peri Peri Fries,Snacks,1,160,160
+2026-09-12,18:14:56,Espresso,Hot Beverages,1,120,120
+2026-09-12,18:14:56,Cold Coffee,Cold Beverages,3,200,600
+2026-09-12,18:23:19,Cappuccino,Hot Beverages,1,170,170
+2026-09-12,18:30:38,Masala Chai,Hot Beverages,2,90,180
+2026-09-12,18:30:38,Cappuccino,Hot Beverages,1,170,170
+2026-09-12,18:31:37,Blueberry Muffin,Bakery,1,120,120
+2026-09-12,18:31:37,Americano,Hot Beverages,1,140,140
+2026-09-12,18:36:27,Blueberry Muffin,Bakery,1,120,120
+2026-09-12,18:36:27,Masala Chai,Hot Beverages,1,90,90
+2026-09-12,18:36:27,Cafe Latte,Hot Beverages,1,180,180
+2026-09-12,18:36:27,Veg Grilled Sandwich,Snacks,1,190,190
+2026-09-12,18:36:45,Americano,Hot Beverages,1,140,140
+2026-09-12,18:37:10,Iced Americano,Cold Beverages,2,170,340
+2026-09-12,18:38:43,Cheese Omelette Toast,Snacks,1,180,180
+2026-09-12,18:38:43,Butter Croissant,Bakery,1,140,140
+2026-09-12,18:38:43,Masala Chai,Hot Beverages,1,90,90
+2026-09-12,18:42:16,Peri Peri Fries,Snacks,1,160,160
+2026-09-12,18:42:16,Iced Americano,Cold Beverages,2,170,340
+2026-09-12,18:42:16,Veg Grilled Sandwich,Snacks,1,190,190
+2026-09-12,18:47:17,Butter Croissant,Bakery,1,140,140
+2026-09-12,18:47:17,Masala Chai,Hot Beverages,1,90,90
+2026-09-12,18:47:17,Cold Coffee,Cold Beverages,1,200,200
+2026-09-12,18:51:08,Masala Chai,Hot Beverages,1,90,90
+2026-09-12,18:51:08,Iced Americano,Cold Beverages,1,170,170
+2026-09-12,18:51:08,Cappuccino,Hot Beverages,1,170,170
+2026-09-12,18:57:49,Americano,Hot Beverages,1,140,140
+2026-09-12,18:57:49,Cheese Omelette Toast,Snacks,1,180,180
+2026-09-12,18:57:49,Espresso,Hot Beverages,1,120,120
+2026-09-12,19:02:01,Cold Coffee,Cold Beverages,1,200,200
+2026-09-12,19:02:01,Cafe Latte,Hot Beverages,1,180,180
+2026-09-12,19:04:18,Masala Chai,Hot Beverages,1,90,90
+2026-09-12,19:04:18,Cold Coffee,Cold Beverages,1,200,200
+2026-09-12,19:04:18,Cappuccino,Hot Beverages,2,170,340
+2026-09-12,19:04:18,Chicken Sandwich,Snacks,1,240,240
+2026-09-12,19:09:43,Chicken Sandwich,Snacks,1,240,240
+2026-09-12,19:10:54,Veg Grilled Sandwich,Snacks,1,190,190
+2026-09-12,19:10:54,Fresh Lime Soda,Cold Beverages,1,110,110
+2026-09-12,19:10:54,Cheese Omelette Toast,Snacks,2,180,360
+2026-09-12,19:16:47,Chicken Sandwich,Snacks,2,240,480
+2026-09-12,19:16:47,Veg Grilled Sandwich,Snacks,1,190,190
+2026-09-12,19:18:27,Cold Coffee,Cold Beverages,2,200,400
+2026-09-12,19:29:23,Choco Brownie,Bakery,1,150,150
+2026-09-12,19:39:54,Cafe Latte,Hot Beverages,1,180,180
+2026-09-12,19:39:54,Espresso,Hot Beverages,1,120,120
+2026-09-12,19:41:08,Chicken Sandwich,Snacks,2,240,480
+2026-09-12,19:41:08,Cafe Latte,Hot Beverages,1,180,180
+2026-09-12,19:41:08,Cold Coffee,Cold Beverages,1,200,200
+2026-09-12,19:41:08,Blueberry Muffin,Bakery,2,120,240
+2026-09-12,19:43:23,Americano,Hot Beverages,1,140,140
+2026-09-12,19:43:23,Cafe Latte,Hot Beverages,1,180,180
+2026-09-12,19:44:53,Flat White,Hot Beverages,1,190,190
+2026-09-12,19:55:36,Americano,Hot Beverages,1,140,140
+2026-09-12,19:55:38,Fresh Lime Soda,Cold Beverages,1,110,110
+2026-09-12,19:56:29,Masala Chai,Hot Beverages,1,90,90
+2026-09-12,19:56:29,Cappuccino,Hot Beverages,2,170,340
+2026-09-12,19:56:34,Cappuccino,Hot Beverages,1,170,170
+2026-09-12,19:57:37,Masala Chai,Hot Beverages,1,90,90
+2026-09-12,20:01:50,Cafe Latte,Hot Beverages,2,180,360
+2026-09-12,20:01:50,Masala Chai,Hot Beverages,1,90,90
+2026-09-12,20:04:22,Cold Coffee,Cold Beverages,1,200,200
+2026-09-12,20:07:18,Chicken Sandwich,Snacks,3,240,720
+2026-09-12,20:23:44,Americano,Hot Beverages,1,140,140
+2026-09-12,20:23:44,Fresh Lime Soda,Cold Beverages,1,110,110
+2026-09-12,20:23:44,Peri Peri Fries,Snacks,1,160,160
+2026-09-12,20:23:57,Chicken Sandwich,Snacks,1,240,240
+2026-09-12,20:23:57,Cappuccino,Hot Beverages,1,170,170
+2026-09-12,20:23:57,Masala Chai,Hot Beverages,1,90,90
+2026-09-12,20:24:46,Cafe Latte,Hot Beverages,3,180,540
+2026-09-12,20:25:50,Cappuccino,Hot Beverages,2,170,340
+2026-09-12,20:25:50,Iced Americano,Cold Beverages,1,170,170
+2026-09-12,20:25:50,Chicken Sandwich,Snacks,1,240,240
+2026-09-12,20:29:14,Banana Bread,Bakery,1,130,130
+2026-09-12,20:32:04,Cold Brew,Cold Beverages,1,220,220
+2026-09-12,20:32:04,Cappuccino,Hot Beverages,1,170,170
+2026-09-12,20:32:04,Cafe Latte,Hot Beverages,1,180,180
+2026-09-12,20:32:04,Cold Coffee,Cold Beverages,1,200,200
+2026-09-12,20:32:19,Chicken Sandwich,Snacks,1,240,240
+2026-09-12,20:32:19,Fresh Lime Soda,Cold Beverages,1,110,110
+2026-09-12,20:34:18,Chicken Sandwich,Snacks,1,240,240
+2026-09-12,20:34:18,Cold Coffee,Cold Beverages,1,200,200
+2026-09-12,20:34:18,Cappuccino,Hot Beverages,1,170,170
+2026-09-12,20:34:18,Cafe Latte,Hot Beverages,1,180,180
+2026-09-12,20:35:31,Cappuccino,Hot Beverages,1,170,170
+2026-09-12,20:35:31,Iced Latte,Cold Beverages,2,210,420
+2026-09-12,20:40:13,Iced Americano,Cold Beverages,1,170,170
+2026-09-12,20:40:13,Cappuccino,Hot Beverages,1,170,170
+2026-09-12,20:40:22,Cafe Latte,Hot Beverages,1,180,180
+2026-09-12,20:40:49,Cold Coffee,Cold Beverages,1,200,200
+2026-09-12,20:40:49,Cafe Latte,Hot Beverages,1,180,180
+2026-09-12,20:44:47,Cappuccino,Hot Beverages,1,170,170
+2026-09-12,20:55:32,Veg Grilled Sandwich,Snacks,2,190,380
+2026-09-12,20:55:32,Cafe Latte,Hot Beverages,1,180,180
+2026-09-12,20:55:32,Iced Latte,Cold Beverages,1,210,210
+2026-09-12,21:04:35,Peri Peri Fries,Snacks,1,160,160
+2026-09-12,21:04:35,Banana Bread,Bakery,1,130,130
+2026-09-12,21:13:37,Peri Peri Fries,Snacks,1,160,160
+2026-09-12,21:21:23,Veg Grilled Sandwich,Snacks,1,190,190
+2026-09-12,21:21:23,Masala Chai,Hot Beverages,1,90,90
+2026-09-12,21:32:43,Cappuccino,Hot Beverages,1,170,170
+2026-09-12,21:32:43,Iced Latte,Cold Beverages,1,210,210
+2026-09-12,21:34:35,Chicken Sandwich,Snacks,1,240,240
+2026-09-12,21:36:51,Cafe Latte,Hot Beverages,1,180,180
+2026-09-12,21:44:55,Veg Grilled Sandwich,Snacks,1,190,190
+2026-09-12,21:46:07,Cafe Latte,Hot Beverages,1,180,180
+2026-09-12,21:48:11,Iced Latte,Cold Beverages,1,210,210
+2026-09-12,21:56:10,Cold Brew,Cold Beverages,1,220,220
+2026-09-12,21:56:10,Iced Latte,Cold Beverages,1,210,210
+2026-09-12,21:56:10,Chicken Sandwich,Snacks,1,240,240
+2026-09-12,21:57:25,Butter Croissant,Bakery,1,140,140
+2026-09-13,08:08:20,Cappuccino,Hot Beverages,1,170,170
+2026-09-13,08:10:27,Espresso,Hot Beverages,1,120,120
+2026-09-13,09:25:18,Blueberry Muffin,Bakery,1,120,120
+2026-09-13,09:35:27,Cheese Omelette Toast,Snacks,1,180,180
+2026-09-13,09:40:46,Cafe Latte,Hot Beverages,1,180,180
+2026-09-13,09:40:46,Banana Bread,Bakery,1,130,130
+2026-09-13,09:40:46,Veg Grilled Sandwich,Snacks,2,190,380
+2026-09-13,09:50:33,Cafe Latte,Hot Beverages,1,180,180
+2026-09-13,10:04:48,Espresso,Hot Beverages,1,120,120
+2026-09-13,10:04:48,Chicken Sandwich,Snacks,1,240,240
+2026-09-13,10:11:27,Americano,Hot Beverages,1,140,140
+2026-09-13,10:17:57,Masala Chai,Hot Beverages,1,90,90
+2026-09-13,10:20:34,Banana Bread,Bakery,2,130,260
+2026-09-13,10:20:34,Blueberry Muffin,Bakery,1,120,120
+2026-09-13,10:20:34,Americano,Hot Beverages,1,140,140
+2026-09-13,10:21:50,Cappuccino,Hot Beverages,2,170,340
+2026-09-13,10:27:03,Peri Peri Fries,Snacks,1,160,160
+2026-09-13,10:27:03,Cold Coffee,Cold Beverages,1,200,200
+2026-09-13,10:27:03,Butter Croissant,Bakery,1,140,140
+2026-09-13,10:27:03,Banana Bread,Bakery,1,130,130
+2026-09-13,10:29:30,Masala Chai,Hot Beverages,1,90,90
+2026-09-13,10:29:30,Americano,Hot Beverages,1,140,140
+2026-09-13,10:31:10,Espresso,Hot Beverages,1,120,120
+2026-09-13,10:32:56,Cappuccino,Hot Beverages,2,170,340
+2026-09-13,10:32:56,Cold Brew,Cold Beverages,1,220,220
+2026-09-13,10:36:22,Espresso,Hot Beverages,1,120,120
+2026-09-13,10:37:23,Americano,Hot Beverages,2,140,280
+2026-09-13,10:37:23,Choco Brownie,Bakery,1,150,150
+2026-09-13,10:40:36,Cafe Latte,Hot Beverages,1,180,180
+2026-09-13,10:46:01,Cafe Latte,Hot Beverages,1,180,180
+2026-09-13,10:47:33,Cold Coffee,Cold Beverages,1,200,200
+2026-09-13,10:47:33,Peri Peri Fries,Snacks,1,160,160
+2026-09-13,10:47:33,Masala Chai,Hot Beverages,1,90,90
+2026-09-13,10:47:33,Iced Americano,Cold Beverages,1,170,170
+2026-09-13,10:52:37,Cappuccino,Hot Beverages,2,170,340
+2026-09-13,10:57:41,Cappuccino,Hot Beverages,2,170,340
+2026-09-13,11:01:13,Masala Chai,Hot Beverages,1,90,90
+2026-09-13,11:01:13,Cafe Latte,Hot Beverages,1,180,180
+2026-09-13,11:01:13,Fresh Lime Soda,Cold Beverages,1,110,110
+2026-09-13,11:08:54,Egg Bhurji Pav,Snacks,1,170,170
+2026-09-13,11:08:54,Americano,Hot Beverages,1,140,140
+2026-09-13,11:10:05,Cold Coffee,Cold Beverages,1,200,200
+2026-09-13,11:10:05,Cheese Omelette Toast,Snacks,1,180,180
+2026-09-13,11:10:05,Peri Peri Fries,Snacks,1,160,160
+2026-09-13,11:10:15,Choco Brownie,Bakery,1,150,150
+2026-09-13,11:10:15,Americano,Hot Beverages,1,140,140
+2026-09-13,11:13:46,Choco Brownie,Bakery,1,150,150
+2026-09-13,11:18:49,Flat White,Hot Beverages,1,190,190
+2026-09-13,11:20:57,Cappuccino,Hot Beverages,1,170,170
+2026-09-13,11:21:15,Veg Grilled Sandwich,Snacks,1,190,190
+2026-09-13,11:34:39,Masala Chai,Hot Beverages,1,90,90
+2026-09-13,11:34:39,Veg Grilled Sandwich,Snacks,1,190,190
+2026-09-13,11:34:39,Choco Brownie,Bakery,1,150,150
+2026-09-13,11:38:08,Chicken Sandwich,Snacks,1,240,240
+2026-09-13,11:38:08,Cafe Latte,Hot Beverages,1,180,180
+2026-09-13,11:40:46,Fresh Lime Soda,Cold Beverages,2,110,220
+2026-09-13,11:40:46,Peri Peri Fries,Snacks,1,160,160
+2026-09-13,11:46:04,Fresh Lime Soda,Cold Beverages,2,110,220
+2026-09-13,11:56:45,Espresso,Hot Beverages,1,120,120
+2026-09-13,12:05:38,Iced Americano,Cold Beverages,1,170,170
+2026-09-13,12:05:38,Peri Peri Fries,Snacks,1,160,160
+2026-09-13,12:08:38,Veg Grilled Sandwich,Snacks,2,190,380
+2026-09-13,12:08:51,Chicken Sandwich,Snacks,1,240,240
+2026-09-13,12:09:00,Cafe Latte,Hot Beverages,1,180,180
+2026-09-13,12:09:00,Cappuccino,Hot Beverages,1,170,170
+2026-09-13,12:09:00,Chicken Sandwich,Snacks,1,240,240
+2026-09-13,12:09:00,Blueberry Muffin,Bakery,1,120,120
+2026-09-13,12:10:25,Iced Americano,Cold Beverages,1,170,170
+2026-09-13,12:15:15,Masala Chai,Hot Beverages,1,90,90
+2026-09-13,12:15:15,Banana Bread,Bakery,2,130,260
+2026-09-13,12:15:15,Chicken Sandwich,Snacks,1,240,240
+2026-09-13,12:15:15,Espresso,Hot Beverages,1,120,120
+2026-09-13,12:17:34,Peri Peri Fries,Snacks,1,160,160
+2026-09-13,12:17:34,Cappuccino,Hot Beverages,1,170,170
+2026-09-13,12:22:55,Butter Croissant,Bakery,1,140,140
+2026-09-13,12:38:09,Peri Peri Fries,Snacks,1,160,160
+2026-09-13,12:42:25,Choco Brownie,Bakery,1,150,150
+2026-09-13,12:42:25,Cafe Latte,Hot Beverages,1,180,180
+2026-09-13,12:42:37,Chicken Sandwich,Snacks,1,240,240
+2026-09-13,12:42:37,Egg Bhurji Pav,Snacks,1,170,170
+2026-09-13,12:45:35,Masala Chai,Hot Beverages,1,90,90
+2026-09-13,12:51:28,Cappuccino,Hot Beverages,1,170,170
+2026-09-13,12:51:28,Chicken Sandwich,Snacks,1,240,240
+2026-09-13,12:53:21,Fresh Lime Soda,Cold Beverages,1,110,110
+2026-09-13,12:53:21,Iced Latte,Cold Beverages,1,210,210
+2026-09-13,12:53:21,Cafe Latte,Hot Beverages,1,180,180
+2026-09-13,13:07:03,Cappuccino,Hot Beverages,2,170,340
+2026-09-13,13:07:03,Masala Chai,Hot Beverages,1,90,90
+2026-09-13,13:07:29,Iced Americano,Cold Beverages,1,170,170
+2026-09-13,13:07:29,Peri Peri Fries,Snacks,1,160,160
+2026-09-13,13:08:58,Cappuccino,Hot Beverages,1,170,170
+2026-09-13,13:12:16,Cafe Latte,Hot Beverages,1,180,180
+2026-09-13,13:13:20,Flat White,Hot Beverages,1,190,190
+2026-09-13,13:19:10,Espresso,Hot Beverages,1,120,120
+2026-09-13,13:19:10,Butter Croissant,Bakery,1,140,140
+2026-09-13,13:28:17,Chicken Sandwich,Snacks,1,240,240
+2026-09-13,13:28:17,Cold Coffee,Cold Beverages,1,200,200
+2026-09-13,13:29:30,Cafe Latte,Hot Beverages,1,180,180
+2026-09-13,13:29:30,Chicken Sandwich,Snacks,1,240,240
+2026-09-13,13:29:30,Veg Grilled Sandwich,Snacks,1,190,190
+2026-09-13,13:41:06,Iced Americano,Cold Beverages,1,170,170
+2026-09-13,13:41:06,Peri Peri Fries,Snacks,1,160,160
+2026-09-13,13:42:44,Cappuccino,Hot Beverages,2,170,340
+2026-09-13,13:42:44,Blueberry Muffin,Bakery,3,120,360
+2026-09-13,13:44:57,Iced Americano,Cold Beverages,1,170,170
+2026-09-13,13:44:57,Veg Grilled Sandwich,Snacks,1,190,190
+2026-09-13,13:44:57,Peri Peri Fries,Snacks,1,160,160
+2026-09-13,13:44:57,Chicken Sandwich,Snacks,1,240,240
+2026-09-13,13:54:17,Cold Coffee,Cold Beverages,1,200,200
+2026-09-13,13:55:35,Masala Chai,Hot Beverages,1,90,90
+2026-09-13,13:56:27,Chicken Sandwich,Snacks,1,240,240
+2026-09-13,13:56:27,Veg Grilled Sandwich,Snacks,1,190,190
+2026-09-13,14:04:47,Cappuccino,Hot Beverages,1,170,170
+2026-09-13,14:04:47,Chicken Sandwich,Snacks,1,240,240
+2026-09-13,14:12:07,Iced Latte,Cold Beverages,1,210,210
+2026-09-13,14:12:07,Blueberry Muffin,Bakery,1,120,120
+2026-09-13,14:16:33,Egg Bhurji Pav,Snacks,2,170,340
+2026-09-13,14:22:23,Cappuccino,Hot Beverages,1,170,170
+2026-09-13,14:22:23,Masala Chai,Hot Beverages,2,90,180
+2026-09-13,14:22:23,Cafe Latte,Hot Beverages,1,180,180
+2026-09-13,14:24:54,Espresso,Hot Beverages,1,120,120
+2026-09-13,14:24:54,Masala Chai,Hot Beverages,1,90,90
+2026-09-13,14:27:54,Iced Americano,Cold Beverages,1,170,170
+2026-09-13,14:27:54,Egg Bhurji Pav,Snacks,1,170,170
+2026-09-13,14:42:38,Iced Latte,Cold Beverages,1,210,210
+2026-09-13,14:42:38,Chicken Sandwich,Snacks,1,240,240
+2026-09-13,14:56:03,Egg Bhurji Pav,Snacks,1,170,170
+2026-09-13,14:56:03,Chicken Sandwich,Snacks,1,240,240
+2026-09-13,15:33:20,Masala Chai,Hot Beverages,1,90,90
+2026-09-13,15:39:41,Chicken Sandwich,Snacks,3,240,720
+2026-09-13,15:49:40,Veg Grilled Sandwich,Snacks,1,190,190
+2026-09-13,15:49:40,Cafe Latte,Hot Beverages,1,180,180
+2026-09-13,15:49:40,Cold Coffee,Cold Beverages,1,200,200
+2026-09-13,15:49:57,Veg Grilled Sandwich,Snacks,1,190,190
+2026-09-13,15:49:57,Iced Americano,Cold Beverages,2,170,340
+2026-09-13,15:49:57,Fresh Lime Soda,Cold Beverages,1,110,110
+2026-09-13,15:52:46,Masala Chai,Hot Beverages,1,90,90
+2026-09-13,16:13:26,Cold Coffee,Cold Beverages,2,200,400
+2026-09-13,16:13:26,Fresh Lime Soda,Cold Beverages,2,110,220
+2026-09-13,16:13:26,Cappuccino,Hot Beverages,1,170,170
+2026-09-13,16:16:06,Blueberry Muffin,Bakery,1,120,120
+2026-09-13,16:16:06,Cold Coffee,Cold Beverages,1,200,200
+2026-09-13,16:31:29,Masala Chai,Hot Beverages,1,90,90
+2026-09-13,16:40:07,Flat White,Hot Beverages,1,190,190
+2026-09-13,16:40:07,Cafe Latte,Hot Beverages,1,180,180
+2026-09-13,16:40:07,Peri Peri Fries,Snacks,1,160,160
+2026-09-13,16:40:07,Veg Grilled Sandwich,Snacks,1,190,190
+2026-09-13,16:44:18,Blueberry Muffin,Bakery,1,120,120
+2026-09-13,16:44:18,Iced Americano,Cold Beverages,1,170,170
+2026-09-13,16:44:18,Peri Peri Fries,Snacks,1,160,160
+2026-09-13,16:47:12,Blueberry Muffin,Bakery,1,120,120
+2026-09-13,16:47:12,Espresso,Hot Beverages,2,120,240
+2026-09-13,16:48:19,Cafe Latte,Hot Beverages,1,180,180
+2026-09-13,16:48:19,Cappuccino,Hot Beverages,1,170,170
+2026-09-13,16:50:08,Chicken Sandwich,Snacks,1,240,240
+2026-09-13,16:52:13,Americano,Hot Beverages,1,140,140
+2026-09-13,16:52:13,Cafe Latte,Hot Beverages,1,180,180
+2026-09-13,16:52:13,Masala Chai,Hot Beverages,1,90,90
+2026-09-13,16:57:16,Masala Chai,Hot Beverages,1,90,90
+2026-09-13,16:57:16,Cold Coffee,Cold Beverages,1,200,200
+2026-09-13,16:58:24,Choco Brownie,Bakery,1,150,150
+2026-09-13,16:58:24,Flat White,Hot Beverages,1,190,190
+2026-09-13,16:58:24,Cappuccino,Hot Beverages,2,170,340
+2026-09-13,17:01:27,Butter Croissant,Bakery,1,140,140
+2026-09-13,17:01:27,Masala Chai,Hot Beverages,1,90,90
+2026-09-13,17:02:44,Cold Brew,Cold Beverages,1,220,220
+2026-09-13,17:04:34,Cafe Latte,Hot Beverages,1,180,180
+2026-09-13,17:15:32,Banana Bread,Bakery,1,130,130
+2026-09-13,17:15:32,Peri Peri Fries,Snacks,2,160,320
+2026-09-13,17:15:36,Masala Chai,Hot Beverages,1,90,90
+2026-09-13,17:15:36,Cappuccino,Hot Beverages,1,170,170
+2026-09-13,17:21:40,Cappuccino,Hot Beverages,1,170,170
+2026-09-13,17:21:40,Masala Chai,Hot Beverages,1,90,90
+2026-09-13,17:36:02,Espresso,Hot Beverages,2,120,240
+2026-09-13,17:36:02,Flat White,Hot Beverages,1,190,190
+2026-09-13,17:36:45,Cappuccino,Hot Beverages,1,170,170
+2026-09-13,17:39:16,Americano,Hot Beverages,1,140,140
+2026-09-13,17:39:16,Chicken Sandwich,Snacks,1,240,240
+2026-09-13,17:40:57,Egg Bhurji Pav,Snacks,2,170,340
+2026-09-13,17:40:57,Blueberry Muffin,Bakery,2,120,240
+2026-09-13,18:04:05,Cappuccino,Hot Beverages,1,170,170
+2026-09-13,18:04:05,Masala Chai,Hot Beverages,1,90,90
+2026-09-13,18:04:05,Cold Coffee,Cold Beverages,1,200,200
+2026-09-13,18:04:20,Cafe Latte,Hot Beverages,1,180,180
+2026-09-13,18:13:48,Veg Grilled Sandwich,Snacks,1,190,190
+2026-09-13,18:15:46,Chicken Sandwich,Snacks,1,240,240
+2026-09-13,18:15:46,Americano,Hot Beverages,1,140,140
+2026-09-13,18:23:02,Peri Peri Fries,Snacks,1,160,160
+2026-09-13,18:23:02,Masala Chai,Hot Beverages,1,90,90
+2026-09-13,18:23:02,Egg Bhurji Pav,Snacks,1,170,170
+2026-09-13,18:25:04,Butter Croissant,Bakery,1,140,140
+2026-09-13,18:25:04,Cold Coffee,Cold Beverages,1,200,200
+2026-09-13,18:26:04,Egg Bhurji Pav,Snacks,1,170,170
+2026-09-13,18:26:20,Chicken Sandwich,Snacks,1,240,240
+2026-09-13,18:26:20,Egg Bhurji Pav,Snacks,1,170,170
+2026-09-13,18:26:20,Cheese Omelette Toast,Snacks,1,180,180
+2026-09-13,18:28:02,Egg Bhurji Pav,Snacks,1,170,170
+2026-09-13,18:28:02,Masala Chai,Hot Beverages,1,90,90
+2026-09-13,18:28:02,Fresh Lime Soda,Cold Beverages,1,110,110
+2026-09-13,18:30:42,Espresso,Hot Beverages,2,120,240
+2026-09-13,18:31:44,Choco Brownie,Bakery,1,150,150
+2026-09-13,18:31:44,Cheese Omelette Toast,Snacks,1,180,180
+2026-09-13,18:35:19,Cheese Omelette Toast,Snacks,1,180,180
+2026-09-13,18:35:19,Fresh Lime Soda,Cold Beverages,1,110,110
+2026-09-13,18:35:19,Americano,Hot Beverages,2,140,280
+2026-09-13,18:35:19,Choco Brownie,Bakery,2,150,300
+2026-09-13,18:45:02,Americano,Hot Beverages,1,140,140
+2026-09-13,18:45:02,Peri Peri Fries,Snacks,1,160,160
+2026-09-13,18:46:05,Egg Bhurji Pav,Snacks,1,170,170
+2026-09-13,18:46:05,Americano,Hot Beverages,1,140,140
+2026-09-13,18:46:05,Masala Chai,Hot Beverages,1,90,90
+2026-09-13,18:46:05,Flat White,Hot Beverages,1,190,190
+2026-09-13,18:54:33,Choco Brownie,Bakery,1,150,150
+2026-09-13,18:54:33,Masala Chai,Hot Beverages,1,90,90
+2026-09-13,18:59:05,Chicken Sandwich,Snacks,1,240,240
+2026-09-13,18:59:05,Cold Coffee,Cold Beverages,2,200,400
+2026-09-13,18:59:05,Egg Bhurji Pav,Snacks,1,170,170
+2026-09-13,19:02:51,Cafe Latte,Hot Beverages,2,180,360
+2026-09-13,19:02:51,Iced Latte,Cold Beverages,1,210,210
+2026-09-13,19:02:51,Choco Brownie,Bakery,1,150,150
+2026-09-13,19:03:15,Veg Grilled Sandwich,Snacks,1,190,190
+2026-09-13,19:03:15,Flat White,Hot Beverages,1,190,190
+2026-09-13,19:03:15,Cafe Latte,Hot Beverages,2,180,360
+2026-09-13,19:08:49,Cafe Latte,Hot Beverages,1,180,180
+2026-09-13,19:08:49,Chicken Sandwich,Snacks,1,240,240
+2026-09-13,19:08:54,Cafe Latte,Hot Beverages,1,180,180
+2026-09-13,19:08:54,Veg Grilled Sandwich,Snacks,3,190,570
+2026-09-13,19:08:54,Iced Latte,Cold Beverages,2,210,420
+2026-09-13,19:08:54,Cappuccino,Hot Beverages,1,170,170
+2026-09-13,19:13:26,Egg Bhurji Pav,Snacks,1,170,170
+2026-09-13,19:13:26,Cappuccino,Hot Beverages,1,170,170
+2026-09-13,19:16:17,Cold Coffee,Cold Beverages,2,200,400
+2026-09-13,19:16:17,Peri Peri Fries,Snacks,1,160,160
+2026-09-13,19:24:57,Cold Coffee,Cold Beverages,1,200,200
+2026-09-13,19:24:57,Cheese Omelette Toast,Snacks,1,180,180
+2026-09-13,19:24:57,Chicken Sandwich,Snacks,1,240,240
+2026-09-13,19:26:24,Veg Grilled Sandwich,Snacks,1,190,190
+2026-09-13,19:26:24,Banana Bread,Bakery,1,130,130
+2026-09-13,19:26:24,Masala Chai,Hot Beverages,1,90,90
+2026-09-13,19:26:24,Peri Peri Fries,Snacks,1,160,160
+2026-09-13,19:27:41,Cafe Latte,Hot Beverages,1,180,180
+2026-09-13,19:27:41,Peri Peri Fries,Snacks,1,160,160
+2026-09-13,19:28:13,Cold Coffee,Cold Beverages,2,200,400
+2026-09-13,19:32:33,Peri Peri Fries,Snacks,1,160,160
+2026-09-13,19:32:33,Chicken Sandwich,Snacks,1,240,240
+2026-09-13,19:33:25,Cappuccino,Hot Beverages,1,170,170
+2026-09-13,19:39:51,Masala Chai,Hot Beverages,2,90,180
+2026-09-13,19:40:56,Cappuccino,Hot Beverages,1,170,170
+2026-09-13,19:40:56,Banana Bread,Bakery,1,130,130
+2026-09-13,19:47:50,Cold Brew,Cold Beverages,1,220,220
+2026-09-13,19:47:50,Egg Bhurji Pav,Snacks,1,170,170
+2026-09-13,19:51:26,Flat White,Hot Beverages,1,190,190
+2026-09-13,19:51:26,Choco Brownie,Bakery,1,150,150
+2026-09-13,19:51:26,Cafe Latte,Hot Beverages,1,180,180
+2026-09-13,19:51:26,Masala Chai,Hot Beverages,1,90,90
+2026-09-13,19:57:36,Veg Grilled Sandwich,Snacks,1,190,190
+2026-09-13,19:57:36,Espresso,Hot Beverages,1,120,120
+2026-09-13,20:05:16,Fresh Lime Soda,Cold Beverages,1,110,110
+2026-09-13,20:06:58,Cafe Latte,Hot Beverages,1,180,180
+2026-09-13,20:12:20,Cafe Latte,Hot Beverages,1,180,180
+2026-09-13,20:12:20,Chicken Sandwich,Snacks,1,240,240
+2026-09-13,20:12:20,Peri Peri Fries,Snacks,2,160,320
+2026-09-13,20:12:50,Cold Coffee,Cold Beverages,1,200,200
+2026-09-13,20:12:50,Cafe Latte,Hot Beverages,1,180,180
+2026-09-13,20:12:50,Veg Grilled Sandwich,Snacks,2,190,380
+2026-09-13,20:18:01,Iced Americano,Cold Beverages,1,170,170
+2026-09-13,20:18:01,Chicken Sandwich,Snacks,1,240,240
+2026-09-13,20:25:19,Cafe Latte,Hot Beverages,1,180,180
+2026-09-13,20:25:19,Masala Chai,Hot Beverages,1,90,90
+2026-09-13,20:25:19,Espresso,Hot Beverages,1,120,120
+2026-09-13,20:28:54,Cheese Omelette Toast,Snacks,1,180,180
+2026-09-13,20:29:06,Choco Brownie,Bakery,1,150,150
+2026-09-13,20:39:11,Espresso,Hot Beverages,1,120,120
+2026-09-13,20:44:17,Cafe Latte,Hot Beverages,1,180,180
+2026-09-13,20:44:17,Chicken Sandwich,Snacks,1,240,240
+2026-09-13,20:56:08,Choco Brownie,Bakery,1,150,150
+2026-09-13,20:56:08,Cheese Omelette Toast,Snacks,1,180,180
+2026-09-13,20:57:46,Fresh Lime Soda,Cold Beverages,1,110,110
+2026-09-13,20:57:46,Banana Bread,Bakery,1,130,130
+2026-09-13,20:58:20,Flat White,Hot Beverages,1,190,190
+2026-09-13,21:00:40,Iced Americano,Cold Beverages,1,170,170
+2026-09-13,21:06:17,Americano,Hot Beverages,1,140,140
+2026-09-13,21:07:21,Cappuccino,Hot Beverages,1,170,170
+2026-09-13,21:07:21,Masala Chai,Hot Beverages,1,90,90
+2026-09-13,21:15:27,Masala Chai,Hot Beverages,3,90,270
+2026-09-13,21:15:27,Chicken Sandwich,Snacks,1,240,240
+2026-09-13,21:21:15,Peri Peri Fries,Snacks,1,160,160
+2026-09-13,21:21:15,Cold Coffee,Cold Beverages,1,200,200
+2026-09-13,21:21:15,Espresso,Hot Beverages,2,120,240
+2026-09-13,21:36:18,Iced Americano,Cold Beverages,1,170,170
+2026-09-13,21:45:43,Espresso,Hot Beverages,1,120,120
+2026-09-13,21:46:10,Espresso,Hot Beverages,1,120,120
+2026-09-13,21:46:10,Cold Coffee,Cold Beverages,1,200,200
+2026-09-13,21:50:07,Egg Bhurji Pav,Snacks,1,170,170
+2026-09-13,21:50:07,Blueberry Muffin,Bakery,1,120,120
+2026-09-13,21:50:07,Masala Chai,Hot Beverages,1,90,90
+2026-09-13,21:50:44,Masala Chai,Hot Beverages,1,90,90
+2026-09-13,21:50:44,Cappuccino,Hot Beverages,2,170,340
+2026-09-14,08:16:23,Cafe Latte,Hot Beverages,1,180,180
+2026-09-14,08:16:23,Iced Latte,Cold Beverages,2,210,420
+2026-09-14,08:38:37,Cappuccino,Hot Beverages,1,170,170
+2026-09-14,08:39:44,Cappuccino,Hot Beverages,1,170,170
+2026-09-14,08:39:44,Cafe Latte,Hot Beverages,1,180,180
+2026-09-14,08:39:44,Fresh Lime Soda,Cold Beverages,1,110,110
+2026-09-14,09:04:42,Cold Coffee,Cold Beverages,1,200,200
+2026-09-14,09:04:42,Flat White,Hot Beverages,1,190,190
+2026-09-14,09:10:37,Butter Croissant,Bakery,1,140,140
+2026-09-14,09:20:26,Cafe Latte,Hot Beverages,2,180,360
+2026-09-14,09:55:09,Americano,Hot Beverages,2,140,280
+2026-09-14,09:55:09,Masala Chai,Hot Beverages,1,90,90
+2026-09-14,09:56:45,Blueberry Muffin,Bakery,2,120,240
+2026-09-14,09:56:45,Cappuccino,Hot Beverages,1,170,170
+2026-09-14,09:56:45,Butter Croissant,Bakery,1,140,140
+2026-09-14,09:56:45,Americano,Hot Beverages,1,140,140
+2026-09-14,10:32:37,Iced Latte,Cold Beverages,1,210,210
+2026-09-14,10:32:37,Cafe Latte,Hot Beverages,1,180,180
+2026-09-14,10:54:37,Cappuccino,Hot Beverages,1,170,170
+2026-09-14,10:58:01,Cappuccino,Hot Beverages,1,170,170
+2026-09-14,10:58:01,Blueberry Muffin,Bakery,1,120,120
+2026-09-14,11:04:27,Choco Brownie,Bakery,2,150,300
+2026-09-14,11:36:09,Choco Brownie,Bakery,1,150,150
+2026-09-14,11:36:09,Masala Chai,Hot Beverages,1,90,90
+2026-09-14,11:43:55,Masala Chai,Hot Beverages,2,90,180
+2026-09-14,11:43:55,Peri Peri Fries,Snacks,1,160,160
+2026-09-14,11:43:55,Fresh Lime Soda,Cold Beverages,3,110,330
+2026-09-14,11:43:55,Espresso,Hot Beverages,1,120,120
+2026-09-14,12:24:14,Peri Peri Fries,Snacks,1,160,160
+2026-09-14,12:36:05,Iced Americano,Cold Beverages,2,170,340
+2026-09-14,12:36:05,Cafe Latte,Hot Beverages,1,180,180
+2026-09-14,12:36:05,Choco Brownie,Bakery,1,150,150
+2026-09-14,12:37:55,Cappuccino,Hot Beverages,1,170,170
+2026-09-14,12:57:34,Cappuccino,Hot Beverages,1,170,170
+2026-09-14,13:31:27,Cold Coffee,Cold Beverages,2,200,400
+2026-09-14,13:31:27,Choco Brownie,Bakery,1,150,150
+2026-09-14,13:35:27,Masala Chai,Hot Beverages,1,90,90
+2026-09-14,13:38:23,Iced Latte,Cold Beverages,1,210,210
+2026-09-14,13:45:20,Masala Chai,Hot Beverages,1,90,90
+2026-09-14,13:48:25,Blueberry Muffin,Bakery,1,120,120
+2026-09-14,13:52:53,Chicken Sandwich,Snacks,1,240,240
+2026-09-14,13:55:50,Flat White,Hot Beverages,1,190,190
+2026-09-14,13:55:50,Choco Brownie,Bakery,1,150,150
+2026-09-14,14:01:53,Fresh Lime Soda,Cold Beverages,1,110,110
+2026-09-14,14:27:53,Cheese Omelette Toast,Snacks,1,180,180
+2026-09-14,14:36:23,Masala Chai,Hot Beverages,1,90,90
+2026-09-14,14:38:37,Cold Brew,Cold Beverages,1,220,220
+2026-09-14,14:38:37,Blueberry Muffin,Bakery,1,120,120
+2026-09-14,14:38:37,Cafe Latte,Hot Beverages,1,180,180
+2026-09-14,15:46:57,Chicken Sandwich,Snacks,1,240,240
+2026-09-14,16:05:08,Cappuccino,Hot Beverages,1,170,170
+2026-09-14,16:14:24,Egg Bhurji Pav,Snacks,1,170,170
+2026-09-14,16:14:24,Americano,Hot Beverages,1,140,140
+2026-09-14,16:17:04,Choco Brownie,Bakery,1,150,150
+2026-09-14,16:17:04,Cappuccino,Hot Beverages,1,170,170
+2026-09-14,16:28:47,Cafe Latte,Hot Beverages,1,180,180
+2026-09-14,16:45:10,Peri Peri Fries,Snacks,1,160,160
+2026-09-14,16:45:10,Cold Coffee,Cold Beverages,1,200,200
+2026-09-14,17:13:19,Masala Chai,Hot Beverages,1,90,90
+2026-09-14,17:13:19,Iced Latte,Cold Beverages,1,210,210
+2026-09-14,17:13:19,Choco Brownie,Bakery,1,150,150
+2026-09-14,17:34:41,Iced Americano,Cold Beverages,1,170,170
+2026-09-14,17:34:41,Veg Grilled Sandwich,Snacks,1,190,190
+2026-09-14,17:42:22,Peri Peri Fries,Snacks,1,160,160
+2026-09-14,17:42:31,Butter Croissant,Bakery,1,140,140
+2026-09-14,17:42:31,Cheese Omelette Toast,Snacks,1,180,180
+2026-09-14,17:42:31,Iced Latte,Cold Beverages,1,210,210
+2026-09-14,17:42:31,Cafe Latte,Hot Beverages,1,180,180
+2026-09-14,17:48:34,Masala Chai,Hot Beverages,1,90,90
+2026-09-14,18:02:26,Masala Chai,Hot Beverages,1,90,90
+2026-09-14,18:02:26,Cafe Latte,Hot Beverages,1,180,180
+2026-09-14,18:07:39,Cafe Latte,Hot Beverages,1,180,180
+2026-09-14,18:07:39,Iced Americano,Cold Beverages,1,170,170
+2026-09-14,18:23:17,Fresh Lime Soda,Cold Beverages,2,110,220
+2026-09-14,18:23:17,Masala Chai,Hot Beverages,1,90,90
+2026-09-14,18:24:20,Masala Chai,Hot Beverages,1,90,90
+2026-09-14,18:24:45,Cappuccino,Hot Beverages,2,170,340
+2026-09-14,18:27:05,Chicken Sandwich,Snacks,1,240,240

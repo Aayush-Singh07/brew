@@ -1,0 +1,111 @@
+import forms from '@tailwindcss/forms';
+import containerQueries from '@tailwindcss/container-queries';
+
+/** @type {import('tailwindcss').Config} */
+export default {
+  content: [
+    "./index.html",
+    "./src/**/*.{js,ts,jsx,tsx}",
+  ],
+  darkMode: "class",
+  theme: {
+    extend: {
+      colors: {
+        "surface-tint": "#6b49b5",
+        "on-primary-container": "#e2d3ff",
+        "surface-container-low": "#f5f2ff",
+        "on-error": "#ffffff",
+        "secondary-container": "#ae8efe",
+        "on-surface-variant": "#494552",
+        "surface": "#fcf8ff",
+        "on-primary": "#ffffff",
+        "background": "#fcf8ff",
+        "surface-container-lowest": "#ffffff",
+        "on-primary-fixed": "#24005b",
+        "on-tertiary": "#ffffff",
+        "secondary": "#6a4ab6",
+        "tertiary-fixed": "#e5e0f0",
+        "on-tertiary-fixed-variant": "#474552",
+        "on-secondary": "#ffffff",
+        "tertiary-container": "#605d6a",
+        "surface-container-high": "#e8e5ff",
+        "on-secondary-fixed-variant": "#51309c",
+        "secondary-fixed-dim": "#d0bcff",
+        "on-surface": "#1a1a2e",
+        "error-container": "#ffdad6",
+        "tertiary-fixed-dim": "#c9c4d4",
+        "primary-fixed": "#eaddff",
+        "primary": "#54309c",
+        "inverse-surface": "#2f2e43",
+        "outline-variant": "#cbc3d4",
+        "outline": "#7a7483",
+        "inverse-on-surface": "#f2efff",
+        "surface-container-highest": "#e2e0fc",
+        "tertiary": "#484652",
+        "surface-container": "#efecff",
+        "primary-container": "#6c4ab6",
+        "secondary-fixed": "#e9ddff",
+        "on-secondary-container": "#411c8c",
+        "inverse-primary": "#d1bcff",
+        "surface-variant": "#e2e0fc",
+        "error": "#ba1a1a",
+        "on-tertiary-container": "#dcd7e7",
+        "surface-dim": "#dad7f3",
+        "on-error-container": "#93000a",
+        "primary-fixed-dim": "#d1bcff",
+        "on-primary-fixed-variant": "#532f9b",
+        "on-tertiary-fixed": "#1c1a25",
+        "on-secondary-fixed": "#23005c",
+        "surface-bright": "#fcf8ff",
+        "on-background": "#1a1a2e"
+      },
+      borderRadius: {
+        "DEFAULT": "0.25rem",
+        "lg": "0.5rem",
+        "xl": "0.75rem",
+        "full": "9999px"
+      },
+      spacing: {
+        "space-sm": "0.5rem",
+        "gutter": "1.5rem",
+        "space-md": "1rem",
+        "space-lg": "1.5rem",
+        "margin-mobile": "1rem",
+        "space-xs": "0.25rem",
+        "gutter-sm": "1rem",
+        "margin": "2rem",
+        "space-xl": "2rem"
+      },
+      fontFamily: {
+        "body-md": ["Inter"],
+        "headline-lg-mobile": ["Inter"],
+        "label-sm": ["Inter"],
+        "title-md": ["Inter"],
+        "headline-md": ["Inter"],
+        "display": ["Inter"],
+        "body-lg": ["Inter"],
+        "body-sm": ["Inter"],
+        "headline-sm": ["Inter"],
+        "headline-lg": ["Inter"],
+        "label-md": ["Inter"]
+      },
+      fontSize: {
+        "body-md": ["14px", { "lineHeight": "20px", "letterSpacing": "0em", "fontWeight": "400" }],
+        "headline-lg-mobile": ["26px", { "lineHeight": "34px", "letterSpacing": "-0.02em", "fontWeight": "700" }],
+        "label-sm": ["11px", { "lineHeight": "14px", "letterSpacing": "0.04em", "fontWeight": "600" }],
+        "title-md": ["16px", { "lineHeight": "24px", "letterSpacing": "-0.01em", "fontWeight": "600" }],
+        "headline-md": ["24px", { "lineHeight": "32px", "letterSpacing": "-0.02em", "fontWeight": "600" }],
+        "display": ["40px", { "lineHeight": "48px", "letterSpacing": "-0.03em", "fontWeight": "700" }],
+        "body-lg": ["16px", { "lineHeight": "24px", "letterSpacing": "-0.005em", "fontWeight": "400" }],
+        "body-sm": ["13px", { "lineHeight": "18px", "letterSpacing": "0em", "fontWeight": "400" }],
+        "headline-sm": ["20px", { "lineHeight": "28px", "letterSpacing": "-0.015em", "fontWeight": "600" }],
+        "headline-lg": ["32px", { "lineHeight": "40px", "letterSpacing": "-0.025em", "fontWeight": "700" }],
+        "label-md": ["12px", { "lineHeight": "16px", "letterSpacing": "0.02em", "fontWeight": "500" }]
+      }
+    },
+  },
+  plugins: [
+    forms,
+    containerQueries,
+  ],
+}

@@ -1,0 +1,48 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    function isSignedIn() {
+      return request.auth != null;
+    }
+    function ownsCafe(cafeId) {
+      return isSignedIn() &&
+        get(/databases/$(database)/documents/cafes/$(cafeId)).data.ownerUid == request.auth.uid;
+    }
+
+    match /users/{uid} {
+      allow read, write: if isSignedIn() && request.auth.uid == uid;
+    }
+
+    match /cafes/{cafeId} {
+      allow read: if ownsCafe(cafeId);
+      allow create: if isSignedIn() && request.resource.data.ownerUid == request.auth.uid;
+      allow update, delete: if ownsCafe(cafeId) && request.resource.data.ownerUid == request.auth.uid;
+    }
+
+    match /datasets/{datasetId} {
+      allow read: if isSignedIn() && ownsCafe(resource.data.cafeId);
+      allow create: if isSignedIn();
+      allow update, delete: if ownsCafe(resource.data.cafeId);
+    }
+
+    match /metrics/{cafeId} {
+      allow read: if ownsCafe(cafeId);
+      allow write: if false;
+    }
+
+    match /insights/{insightId} {
+      allow read, update: if isSignedIn() && ownsCafe(resource.data.cafeId);
+      allow write: if false; 
+    }
+
+    match /chats/{chatId}/messages/{messageId} {
+      allow read, create: if isSignedIn() && (chatId == request.auth.uid + "_demo" || chatId == request.auth.uid + "_live");
+    }
+
+    match /payments/{cafeId} {
+      allow read: if ownsCafe(cafeId);
+      allow write: if false;
+    }
+  }
+}
